@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarioTX
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently studying in Shenzhen University
-- 📫 How to reach me 1036790957@qq.com
+- 📫 How to reach me chentianxing2002@gmail.com
 <!-- - 💞️ I’m looking to collaborate on  -->
 
 <!---
