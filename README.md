@@ -3,7 +3,6 @@
   <a href="github.com/chen-tianxing">
     <img src="https://img.shields.io/github/stars/chen-tianxing?style=social" alt="GitHub stars">
   </a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fchen-tianxing.github.io&count_bg=%2321E0D7&title_bg=%23245DD3&icon=github.svg&icon_color=%23E7E7E7&title=Homepage Viewers+%28today+%2F+total%29&edge_flat=false"/></a>
 </p>
 - 🏠 Homepage: chen-tianxing.github.io<br>
 - 📫 Email: chentianxing2002@gmail.com<br>
