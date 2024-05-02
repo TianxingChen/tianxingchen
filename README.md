@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://chen-tianxing.github.io/">Tianxing Chen (陈天行)</a> 👋 </h1>
 <p align="center">
-  <a href="https://github.com/chen-tianxing">
+  <a href="github.com/chen-tianxing">
     <img src="https://img.shields.io/github/stars/chen-tianxing?style=social" alt="GitHub stars">
   </a>
 </p>
