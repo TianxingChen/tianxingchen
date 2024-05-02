@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/github/stars/chen-tianxing?style=social" alt="GitHub stars">
   </a>
 </p>
-- 🏠 Homepage: chen-tianxing.github.io<br>
+- 🏠 Homepage: <a href="https://chen-tianxing.github.io">chen-tianxing.github.io</a><br>
 - 📫 Email: chentianxing2002@gmail.com<br>
 - 🤝 I’m looking to collaborate on <strong>Embodied AI</strong> and <strong>LLM Agent</strong><br><br>
 
