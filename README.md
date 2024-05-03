@@ -6,7 +6,7 @@
 </p>
 <p> 
 	<a href="https://en.szu.edu.cn/"><img src="https://chen-tianxing.github.io/files/szu_icon.png" height="95px" style="margin-bottom:-1px"></a>&nbsp; &nbsp; &nbsp;
-	<a href="https://www.shlab.org.cn/"><img src="https://chen-tianxing.github.io/files/shlab.jpeg" height="100px" style="margin-bottom:-1px"></a>&nbsp; &nbsp; &nbsp;
+	<a href="https://www.shlab.org.cn/"><img src="https://chen-tianxing.github.io/files/shlab.jpeg" height="100px" style="margin-bottom:0px"></a>&nbsp; &nbsp; &nbsp;
 	<a href="https://icpc.global/"><img src="https://chen-tianxing.github.io/files/ICPC.png" height="100px" style="margin-bottom:-3px"></a>&nbsp; &nbsp; &nbsp;
 	<br>
 <p>
