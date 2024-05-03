@@ -10,7 +10,7 @@
 
 Hi! I am <strong>Tianxing Chen (陈天行)</strong>, currently pursuing a Bachelor's degree in Computer Science at Shenzhen University (expected graduation in July 2025) and doing research at <a href="https://www.shlab.org.cn/"> Shanghai AI Laboratory (Pujiang National Laboratory)</a> and <a href="https://bdsc.szu.edu.cn/home">National Engineering laboratory for Big Data System Computing Technology</a>, supervised by <a href="https://yaomarkmu.github.io/">Yao Mu</a>. <br><br>
 
-Also, I am an incoming PhD at The University of Hong Kong (25fall) 🌹. 
+Also, I am an incoming PhD student at The University of Hong Kong (25fall) 🌹. 
 
 
 
