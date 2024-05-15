@@ -11,7 +11,7 @@
 	<a href="https://icpc.global/"><img src="https://tianxingchen.io/files/ICPC.png" height="100px" style="margin-bottom:-1px"></a>&nbsp; &nbsp; &nbsp;
 	<br>
 <p>
-- 🏠 Homepage: <a href="https://tianxingchen.github.io">tianxingchen.github.io.github.io</a><br>
+- 🏠 Homepage: <a href="https://tianxingchen.github.io">tianxingchen.github.io</a><br>
 - 📫 Email: chentianxing2002@gmail.com<br>
 - 🤝 I’m looking to collaborate on <strong>Embodied AI</strong> and <strong>LLM Agent</strong><br><br>
 
