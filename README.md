@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm <a href="https://chen-tianxing.github.io/">Tianxing Chen (陈天行)</a> 👋 </h1>
 <p align="center">
-  <a href="github.com/chen-tianxing">
+  <a href="github.com/tianxingchen">
     <img src="https://img.shields.io/github/stars/chen-tianxing?style=social" alt="GitHub stars">
   </a>
 </p>
 <p> 	
-	<a href="chen-tianxing.github.io"><img src="https://chen-tianxing.github.io/files/sign.jpg" height="100px" style="margin-bottom:-1px"></a>&nbsp; &nbsp; &nbsp;&nbsp;
-	<a href="https://en.szu.edu.cn/"><img src="https://chen-tianxing.github.io/files/szu_icon.png" height="100px" style="margin-bottom:-1px"></a>&nbsp; &nbsp; &nbsp;
-	<a href="https://www.shlab.org.cn/"><img src="https://chen-tianxing.github.io/files/shlab.jpeg" height="100px" style="margin-bottom:-3px"></a>&nbsp; &nbsp; &nbsp;
-	<a href="https://icpc.global/"><img src="https://chen-tianxing.github.io/files/ICPC.png" height="100px" style="margin-bottom:-1px"></a>&nbsp; &nbsp; &nbsp;
+	<a href="chen-tianxing.github.io"><img src="https://tianxingchen.github.io/files/sign.jpg" height="100px" style="margin-bottom:-1px"></a>&nbsp; &nbsp; &nbsp;&nbsp;
+	<a href="https://en.szu.edu.cn/"><img src="https://tianxingchen.github.io/files/szu_icon.png" height="100px" style="margin-bottom:-1px"></a>&nbsp; &nbsp; &nbsp;
+	<a href="https://www.shlab.org.cn/"><img src="https://tianxingchen.github.io/files/shlab.jpeg" height="100px" style="margin-bottom:-3px"></a>&nbsp; &nbsp; &nbsp;
+	<a href="https://icpc.global/"><img src="https://tianxingchen.io/files/ICPC.png" height="100px" style="margin-bottom:-1px"></a>&nbsp; &nbsp; &nbsp;
 	<br>
 <p>
-- 🏠 Homepage: <a href="https://chen-tianxing.github.io">chen-tianxing.github.io</a><br>
+- 🏠 Homepage: <a href="https://tianxingchen.github.io">chen-tianxing.github.io</a><br>
 - 📫 Email: chentianxing2002@gmail.com<br>
 - 🤝 I’m looking to collaborate on <strong>Embodied AI</strong> and <strong>LLM Agent</strong><br><br>
 
