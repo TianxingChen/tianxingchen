@@ -19,8 +19,8 @@
 
 Hi! I am <strong>Tianxing Chen (陈天行)</strong>, currently a 3rd-year undergraduate student majoring in Computer Science at Shenzhen University (expected graduation in July 2025) and doing research at Shanghai AI Laboratory (Pujiang National Laboratory). and doing research at <a href="https://www.shlab.org.cn/"> Shanghai AI Laboratory (Pujiang National Laboratory)</a>, supervised by <a href="https://yaomarkmu.github.io/">Yao Mu</a>. <br><be>
 
-# Paper
-ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation
+# My Work
+ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation<br>
 [Project Page](https://manicm-fast.github.io/) / [Github Repo](https://github.com/ManiCM-fast/ManiCM) / [Paper (Coming Soon)]()
 
 
