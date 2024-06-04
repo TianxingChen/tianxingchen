@@ -3,7 +3,6 @@
   <a href="github.com/tianxingchen">	  
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftianxingchen.github.io&count_bg=%2321E0D7&title_bg=%23245DD3&icon=&icon_color=%23E7E7E7&title=Homepage+Viewers&edge_flat=false"/></a>
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftianxingchen&count_bg=%238710FF&title_bg=%23E140D1&icon=&icon_color=%23E7E7E7&title=Github+Viewers&edge_flat=false"/></a>
-	<img src="https://img.shields.io/github/stars/tianxingchen?style=social" alt="GitHub stars">
   </a>
 </p>
 <p> 	
@@ -20,8 +19,7 @@
 Hi! I am <strong>Tianxing Chen (陈天行)</strong>, currently a 3rd-year undergraduate student majoring in Computer Science at Shenzhen University (expected graduation in July 2025) and doing research at Shanghai AI Laboratory (Pujiang National Laboratory). and doing research at <a href="https://www.shlab.org.cn/"> Shanghai AI Laboratory (Pujiang National Laboratory)</a>, supervised by <a href="https://yaomarkmu.github.io/">Yao Mu</a>. <br><be>
 
 # My Work (Open source)
-**ManiCM**: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation<br>
-[Project Page](https://manicm-fast.github.io/) / [Github Repo](https://github.com/ManiCM-fast/ManiCM) / [Paper (Coming Soon)]()
+**ManiCM**: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation: [Project Page](https://manicm-fast.github.io/) / [Github Repo](https://github.com/ManiCM-fast/ManiCM) <img src="https://img.shields.io/github/stars/manicm-fast?style=social" alt="GitHub stars">
 
 
 
