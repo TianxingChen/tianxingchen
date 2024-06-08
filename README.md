@@ -15,12 +15,10 @@ Hi! I am <strong>Tianxing Chen (陈天行)</strong>, currently a 3rd-year underg
 *  Homepage: <a href="https://tianxingchen.github.io">tianxingchen.github.io</a><br>
 *  Google Scholar: <a href="https://scholar.google.com/citations?hl=en&user=pvS8MH8AAAAJ">Tianxing Chen (陈天行)</a><br>
 *  Email: <a href="mailto:chentianxing2002@gmail.com" target="_blank">chentianxing2002@gmail.com</a><br>
-*  I’m looking to collaborate on <strong>Embodied AI</strong> and <strong>LLM Agent</strong><br><br>
-
-
+*  I’m looking to collaborate on <strong>Embodied AI</strong> and <strong>LLM Agent</strong>
 
 # 💻 Open-source Projects
-**ManiCM**: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation: [Project Page](https://manicm-fast.github.io/) / [Github Repo](https://github.com/ManiCM-fast/ManiCM)
+* **ManiCM**: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation: [Project Page](https://manicm-fast.github.io/) / [Github Repo](https://github.com/ManiCM-fast/ManiCM)
 
 <a href="github.com/tianxingchen">	  
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftianxingchen&count_bg=%238710FF&title_bg=%23E140D1&icon=&icon_color=%23E7E7E7&title=Github+Viewers&edge_flat=false"/></a>
