@@ -1,6 +1,6 @@
 <h1 align="center">
-	Hi, I'm <a href="https://tianxingchen.github.io/">Tianxing Chen (陈天行)</a> 👋<br>
-	<a href="tianxingchen.github.io.github.io"><img src="https://tianxingchen.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
+	Hi, I'm <a href="https://tianxingchen.github.io/" target="_blank">Tianxing Chen (陈天行)</a> 👋<br>
+	<a href="tianxingchen.github.io.github.io" target="_blank"><img src="https://tianxingchen.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
 </h1>
 <!-- <p> 	
 	<a href="https://en.szu.edu.cn/"><img src="https://tianxingchen.github.io/files/szu_icon.png" height="100px" style="margin-bottom:-1px"></a>&nbsp; &nbsp; &nbsp;
@@ -12,8 +12,8 @@ Hi! I am <strong>Tianxing Chen (陈天行)</strong>, currently a 3rd-year underg
 
 
 # 📎 Information
-*  **Homepage**: <a href="https://tianxingchen.github.io">tianxingchen.github.io</a><br>
-*  Google Scholar: <a href="https://scholar.google.com/citations?hl=en&user=pvS8MH8AAAAJ">Tianxing Chen (陈天行)</a><br>
+*  **Homepage**: <a href="https://tianxingchen.github.io" target="_blank">tianxingchen.github.io</a><br>
+*  Google Scholar: <a href="https://scholar.google.com/citations?hl=en&user=pvS8MH8AAAAJ" target="_blank">Tianxing Chen (陈天行)</a><br>
 *  Email: <a href="mailto:chentianxing2002@gmail.com" target="_blank">chentianxing2002@gmail.com</a><br>
 *  I’m looking to collaborate on <strong>Embodied AI</strong> and <strong>LLM Agent</strong>
 
