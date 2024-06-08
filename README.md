@@ -12,6 +12,7 @@
 	<br>
 <p>
 - 🏠 Homepage: <a href="https://tianxingchen.github.io">tianxingchen.github.io</a><br>
+- Google Scholar: <a href"https://scholar.google.com/citations?hl=en&user=pvS8MH8AAAAJ">Tianxing Chen (陈天行)</a><br>
 - 📫 Email: chentianxing2002@gmail.com<br>
 - 🤝 I’m looking to collaborate on <strong>Embodied AI</strong> and <strong>LLM Agent</strong><br><br>
 
