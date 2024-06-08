@@ -1,8 +1,6 @@
 <h1 align="center">
-	Hi, I'm <a href="https://tianxingchen.github.io/">Tianxing Chen (陈天行)</a> 👋
-	<p align="center">
-		<a href="tianxingchen.github.io.github.io"><img src="https://tianxingchen.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
-	</p>
+	Hi, I'm <a href="https://tianxingchen.github.io/">Tianxing Chen (陈天行)</a> 👋<br>
+	<a href="tianxingchen.github.io.github.io"><img src="https://tianxingchen.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
 </h1>
 <p> 	
 	<a href="https://en.szu.edu.cn/"><img src="https://tianxingchen.github.io/files/szu_icon.png" height="100px" style="margin-bottom:-1px"></a>&nbsp; &nbsp; &nbsp;
