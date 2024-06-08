@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm <a href="https://tianxingchen.github.io/">Tianxing Chen (陈天行)</a> 👋 </h1>
 <p align="center">
+	<a href="tianxingchen.github.io.github.io"><img src="https://tianxingchen.github.io/files/sign.jpg" height="100px" style="margin-bottom:-1px"></a>
+</p>
+<p align="center">
   <a href="github.com/tianxingchen">	  
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftianxingchen&count_bg=%238710FF&title_bg=%23E140D1&icon=&icon_color=%23E7E7E7&title=Github+Viewers&edge_flat=false"/></a>
   </a>
