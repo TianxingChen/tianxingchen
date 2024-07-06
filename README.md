@@ -8,8 +8,8 @@
 	<a href="https://icpc.global/"><img src="https://tianxingchen.github.io/files/ICPC.png" height="100px" style="margin-bottom:-1px"></a>&nbsp; &nbsp; &nbsp;
 	<br>
 <p> -->
-Hi! I am <b>Tianxing Chen (陈天行)</b>, currently a 3rd-year undergraduate student majoring in Computer Science at Shenzhen University (expected graduation in July 2025) and doing research at Shanghai AI Laboratory (Pujiang National Laboratory), supervised by Y<a href="https://yaomarkmu.github.io/">Yao Mu</a>.<br>
-My research interests mainly focus on Embodied AI (具身智能), on behavior planning and policy based on Diffusion Model, LLM and Reinforcement Learning. I am very interested in the application of policy in robot manipulation and autonomous driving scenarios.
+Hi! I am <b>Tianxing Chen (陈天行)</b>, currently a 3rd-year undergraduate student majoring in Computer Science at Shenzhen University (expected graduation in July 2025) and doing research at Shanghai AI Laboratory (Pujiang National Laboratory), supervised by <a href="https://yaomarkmu.github.io/">Yao Mu</a>.<br>
+My research interests mainly focus on <b>Embodied AI (具身智能)</b>, on behavior planning and policy based on Diffusion Model, LLM and Reinforcement Learning. I am very interested in the application of policy in robot manipulation and autonomous driving scenarios.
 
 
 # 📎 Information
