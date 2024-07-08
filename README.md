@@ -22,7 +22,13 @@ My research interests mainly focus on <b>Embodied AI (具身智能)</b>, on beha
 *  I’m looking to collaborate on <strong>Embodied AI</strong> and <strong>LLM Agent</strong>
 
 # 💻 Open-source Projects
+
+## Papers
 * **ManiCM**: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation: [Project Page](https://manicm-fast.github.io/) / [Github Repo](https://github.com/ManiCM-fast/ManiCM)
+
+## Tutorials
+* **Embodied-AI-Guide**: [Project Page](https://github.com/tianxingchen/Embodied-AI-Guide)
+* **Paper List of Tianxing Chen**: [Project Page0](https://github.com/tianxingchen/Paper-List)
 
 <a href="github.com/tianxingchen">	  
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftianxingchen&count_bg=%238710FF&title_bg=%23E140D1&icon=&icon_color=%23E7E7E7&title=Github+Viewers&edge_flat=false"/></a>
