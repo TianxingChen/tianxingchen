@@ -14,6 +14,8 @@
 Hi! I am <b>Tianxing Chen (陈天行)</b>, currently a 3rd-year undergraduate student majoring in Computer Science at Shenzhen University (expected graduation in July 2025) and doing research at Shanghai AI Laboratory (Pujiang National Laboratory), supervised by <a href="https://yaomarkmu.github.io/">Yao Mu</a>.<br>
 My research interests mainly focus on <b>Embodied AI (具身智能)</b>, on behavior planning and policy based on Diffusion Model, LLM and Reinforcement Learning. I am very interested in the application of policy in robot manipulation and autonomous driving scenarios.
 
+<i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i>
+
 
 # 📎 Information
 <table width="100%">
@@ -29,7 +31,6 @@ My research interests mainly focus on <b>Embodied AI (具身智能)</b>, on beha
 	<td>WeChat (微信):<a href="https://tianxingchen.github.io/files/my_wechat.jpg" targe="_blank">QR Code</a> </td>
   </tr>
 </table>
-I’m looking to collaborate on <strong>Embodied AI</strong> and <strong>LLM Agent</strong>
 
 # 💻 Open-source Projects
 
