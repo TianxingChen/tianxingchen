@@ -13,18 +13,20 @@ My research interests mainly focus on <b>Embodied AI (具身智能)</b>, on beha
 
 
 # 📎 Information
-*  Email: <a href="mailto:chentianxing2002@gmail.com" target="_blank">chentianxing2002@gmail.com</a><br>
-* X (Twitter): [MarioChen2002](https://x.com/MarioChan2002)
-* Zhihu (知乎): [Tianxing Chen](https://www.zhihu.com/people/mario-chen-65)
-* WeChat (微信): [QR Code](https://tianxingchen.github.io/files/my_wechat.jpg)
-*  I’m looking to collaborate on <strong>Embodied AI</strong> and <strong>LLM Agent</strong>
-
 <table width="100%">
   <tr>
     <td>🏠 <b>Homepage</b>: <a href="https://tianxingchen.github.io" target="_blank">tianxingchen.github.io</a></td>
     <td>Google Scholar: <a href="https://scholar.google.com/citations?hl=en&user=pvS8MH8AAAAJ" target="_blank">Tianxing Chen (陈天行)</a></td>
+    <td>Email: <a href="mailto:chentianxing2002@gmail.com" target="_blank">chentianxing2002@gmail.com</a></td>
+  </tr>
+	
+  <tr>
+    <td>X (推特): <a href="https://x.com/MarioChan2002" target="_blank">MarioChen2002</a></td>
+    <td>Zhihu (知乎): <a href="https://www.zhihu.com/people/mario-chen-65" target="_blank">Tianxing Chen (陈天行)</a></td>
+	<td>WeChat (微信):<a href="https://tianxingchen.github.io/files/my_wechat.jpg" targe="_blank">QR Code</a> </td>
   </tr>
 </table>
+I’m looking to collaborate on <strong>Embodied AI</strong> and <strong>LLM Agent</strong>
 
 # 💻 Open-source Projects
 
