@@ -13,13 +13,18 @@ My research interests mainly focus on <b>Embodied AI (具身智能)</b>, on beha
 
 
 # 📎 Information
-*  **🏠 Homepage**: <a href="https://tianxingchen.github.io" target="_blank">tianxingchen.github.io</a><br>
-*  Google Scholar: <a href="https://scholar.google.com/citations?hl=en&user=pvS8MH8AAAAJ" target="_blank">Tianxing Chen (陈天行)</a><br>
 *  Email: <a href="mailto:chentianxing2002@gmail.com" target="_blank">chentianxing2002@gmail.com</a><br>
 * X (Twitter): [MarioChen2002](https://x.com/MarioChan2002)
 * Zhihu (知乎): [Tianxing Chen](https://www.zhihu.com/people/mario-chen-65)
 * WeChat (微信): [QR Code](https://tianxingchen.github.io/files/my_wechat.jpg)
 *  I’m looking to collaborate on <strong>Embodied AI</strong> and <strong>LLM Agent</strong>
+
+<table width="100%">
+  <tr>
+    <td>🏠 <b>Homepage</b>: <a href="https://tianxingchen.github.io" target="_blank">tianxingchen.github.io</a></td>
+    <td>Google Scholar: <a href="https://scholar.google.com/citations?hl=en&user=pvS8MH8AAAAJ" target="_blank">Tianxing Chen (陈天行)</a></td>
+  </tr>
+</table>
 
 # 💻 Open-source Projects
 
