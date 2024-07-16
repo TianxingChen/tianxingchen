@@ -3,6 +3,9 @@
 <h1 align="center">
 	Hi, I'm <a href="https://tianxingchen.github.io/" target="_blank">𝐓𝐢𝐚𝐧𝐱𝐢𝐧𝐠 𝐂𝐡𝐞𝐧 (陈天行)</a> 👋<br>
 	<a href="tianxingchen.github.io.github.io" target="_blank"><img src="https://tianxingchen.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
+	<a href="github.com/tianxingchen">	  
+		<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftianxingchen&count_bg=%238710FF&title_bg=%23E140D1&icon=&icon_color=%23E7E7E7&title=Github+Viewers&edge_flat=false"/></a>
+	</a>
 </h1>
 <!-- <p> 	
 	<a href="https://en.szu.edu.cn/"><img src="https://tianxingchen.github.io/files/szu_icon.png" height="100px" style="margin-bottom:-1px"></a>&nbsp; &nbsp; &nbsp;
@@ -42,6 +45,4 @@ My research interests mainly focus on <b>Embodied AI (具身智能)</b>, on beha
 * **Embodied-AI-Guide**: [Project Page](https://github.com/tianxingchen/Embodied-AI-Guide)
 * **Paper List of Tianxing Chen**: [Project Page](https://github.com/tianxingchen/Paper-List)
 
-<a href="github.com/tianxingchen">	  
-	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftianxingchen&count_bg=%238710FF&title_bg=%23E140D1&icon=&icon_color=%23E7E7E7&title=Github+Viewers&edge_flat=false"/></a>
-</a>
+
