@@ -41,8 +41,6 @@ My research interests mainly focus on <b>Embodied AI (具身智能)</b>, on beha
 * **[Under Review]** ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation: [Project Page](https://manicm-fast.github.io/) / [Github Repo](https://github.com/ManiCM-fast/ManiCM)
 * **[ICARM 2024]** Robust UAV Policy Learning for Urban Infrastructure Surface Screening
 
-## Tutorials
+## Others
+* **Paper-List-For-EmbodiedAI**: [Project Page](https://github.com/tianxingchen/Paper-List)
 * **Embodied-AI-Guide**: [Project Page](https://github.com/tianxingchen/Embodied-AI-Guide)
-* **Paper List of Tianxing Chen**: [Project Page](https://github.com/tianxingchen/Paper-List)
-
-
