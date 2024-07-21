@@ -1,13 +1,14 @@
 
 
 <h1 align="center">
-	Hi, I'm <a href="https://tianxingchen.github.io/" target="_blank">𝐓𝐢𝐚𝐧𝐱𝐢𝐧𝐠 𝐂𝐡𝐞𝐧 (陈天行)</a> 👋<br>
+	
+	Hi, I'm <a href="https://tianxingchen.github.io/" target="_blank">Tianxing CHEN (陈天行)</a> 👋<br>
 	<a href="github.com/tianxingchen">	  
 		<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftianxingchen&count_bg=%238710FF&title_bg=%23E140D1&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 	</a><br>
 	<a href="tianxingchen.github.io.github.io" target="_blank"><img src="https://tianxingchen.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
 </h1>
-<!-- <p> 	
+<!-- <p> 	𝐓𝐢𝐚𝐧𝐱𝐢𝐧𝐠 𝐂𝐡𝐞𝐧
 	<a href="https://en.szu.edu.cn/"><img src="https://tianxingchen.github.io/files/szu_icon.png" height="100px" style="margin-bottom:-1px"></a>&nbsp; &nbsp; &nbsp;
 	<a href="https://www.shlab.org.cn/"><img src="https://tianxingchen.github.io/files/shlab.jpeg" height="100px" style="margin-bottom:-3px"></a>&nbsp; &nbsp; &nbsp;
 	<a href="https://icpc.global/"><img src="https://tianxingchen.github.io/files/ICPC.png" height="100px" style="margin-bottom:-1px"></a>&nbsp; &nbsp; &nbsp;
