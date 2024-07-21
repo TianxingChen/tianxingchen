@@ -2,11 +2,7 @@
 
 <h1 align="center">
 	
-	Hi, I'm <a href="https://tianxingchen.github.io/" target="_blank">Tianxing CHEN (陈天行)</a> 👋<br>
-	<a href="github.com/tianxingchen">	  
-		<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftianxingchen&count_bg=%238710FF&title_bg=%23E140D1&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
-	</a><br>
-	<a href="tianxingchen.github.io.github.io" target="_blank"><img src="https://tianxingchen.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
+	1
 </h1>
 
 Hi! I am <b>Tianxing Chen (陈天行)</b>, currently a 3rd-year undergraduate student majoring in Computer Science at Shenzhen University (expected graduation in July 2025) and doing research at Shanghai AI Laboratory (Pujiang National Laboratory), supervised by <a href="https://yaomarkmu.github.io/">Yao Mu</a>.<br>
