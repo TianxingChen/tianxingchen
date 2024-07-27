@@ -6,10 +6,14 @@
 </a><br>
 <a href="tianxingchen.github.io.github.io" target="_blank"><img src="https://tianxingchen.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
 </h1>
-Hi! I am <b>Tianxing Chen (陈天行)</b>, currently a 3rd-year undergraduate student majoring in Computer Science at Shenzhen University (expected graduation in July 2025) and doing research at Shanghai AI Laboratory (Pujiang National Laboratory), supervised by <a href="https://yaomarkmu.github.io/">Yao Mu</a>.<br>
-My research interests mainly focus on <b>Embodied AI (具身智能)</b>, on behavior planning and policy based on Diffusion Model, LLM and Reinforcement Learning. I am very interested in the application of policy in robot manipulation and autonomous driving scenarios.
+Hi! I am <strong>Tianxing Chen (陈天行)</strong>, currently a <u>3rd-year undergraduate student</u> majoring in Computer Science at Shenzhen University (expected graduation in July 2025) and doing research at <a href="https://www.shlab.org.cn/" target="_blank"> Shanghai AI Laboratory (Pujiang National Laboratory)</a>, supervised by <a href="https://yaomarkmu.github.io/">Yao Mu</a>.<br><br>
 
-<i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i>
+I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition and a national runner-up in the RAICOM robotics competition. I also received <strong>CCF Elite Collegiate Award (CCF优秀大学生, top 99 nationwide)</strong> and <strong>"Excellent Star of SZU (荔园卓越之星)"</strong> which was the recipient of the highest honor for undergraduate students at Shenzhen University (rk 2/30000).<br>
+
+<br>
+<p>My research interests mainly focus on <b>Embodied AI (具身智能)</b>, on behavior planning and policy based on Diffusion Model, LLM and Reinforcement Learning. I am very interested in the application of policy in robot manipulation and autonomous driving scenarios.</p>
+<p><i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
+
 
 
 # 📎 Information
