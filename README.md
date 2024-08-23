@@ -32,7 +32,8 @@ I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition 
 # 💻 Open-source Projects
 
 ## Papers
-* **[Under Review]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version), [Project Page](https://robotwin-benchmark.github.io/early-version)
+* **[ECCV Workshop (Oral)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version), [Project Page](https://robotwin-benchmark.github.io/early-version)
+* **[Under Review]** HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model
 * **[Under Review]** ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation: [Project Page](https://manicm-fast.github.io/) / [Github Repo](https://github.com/ManiCM-fast/ManiCM)
 * **[ICARM 2024]** Robust UAV Policy Learning for Urban Infrastructure Surface Screening
 
