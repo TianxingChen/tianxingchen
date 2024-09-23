@@ -25,7 +25,7 @@ I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition 
   <tr>
     <td>X: <a href="https://x.com/MarioChan2002" target="_blank">MarioChen2002</a></td>
     <td>Zhihu (知乎): <a href="https://www.zhihu.com/people/mario-chen-65" target="_blank">Tianxing Chen</a></td>
-	<td>WeChat (微信):<a href="https://tianxingchen.github.io/files/my_wechat.jpg" targe="_blank">QR Code</a> </td>
+	<td>WeChat (微信): <a href="https://tianxingchen.github.io/files/my_wechat.jpg" targe="_blank">QR Code</a> </td>
   </tr>
 </table>
 
