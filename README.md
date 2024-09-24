@@ -30,7 +30,7 @@ I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition 
 </table>
 
 # 📑 Papers
-* **[arXiv]** Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking, [Project Page](https://tianxingchen.github.io/video-tracking-for-axis-estimation/) / [Github Repo](https://github.com/TianxingChen/VideoTracking-For-AxisEst)
+* **[arXiv]** Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking, [Project Page](https://hytidel.github.io/video-tracking-for-axis-estimation/) / [Github Repo](https://github.com/TianxingChen/VideoTracking-For-AxisEst)
 * **[ECCV Workshop (Oral)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version), [Project Page](https://robotwin-benchmark.github.io/early-version)
 * **[arXiv]** HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model
 * **[arXiv]** ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation: [Project Page](https://manicm-fast.github.io/) / [Github Repo](https://github.com/ManiCM-fast/ManiCM)
