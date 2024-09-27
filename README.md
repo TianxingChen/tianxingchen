@@ -6,7 +6,7 @@
 </a><br>
 <a href="tianxingchen.github.io.github.io" target="_blank"><img src="https://tianxingchen.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
 </h1>
-Hi! I am <strong>Tianxing Chen (陈天行)</strong>, currently a <u>4-th-year undergraduate student</u> majoring in Computer Science at Shenzhen University (expected graduation in July 2025) and doing research at <a href="https://www.shlab.org.cn/" target="_blank">MMLab@HKU</a>, supervised by <a href="http://luoping.me/">Prof. Ping Luo</a>.<br><br>
+Hi! I am <strong>Tianxing Chen (陈天行)</strong>, currently a <u>4-th-year undergraduate student</u> majoring in Computer Science at Shenzhen University (expected graduation in July 2025) and doing research at <a href="https://mmlab-hku.com/" target="_blank">MMLab@HKU</a>, supervised by <a href="http://luoping.me/">Prof. Ping Luo</a>.<br><br>
 I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition and a national runner-up in the RAICOM robotics competition. I also received <strong>CCF Elite Collegiate Award (CCF优秀大学生, top 99 nationwide)</strong> and <strong>"Excellent Star of SZU (荔园卓越之星)"</strong> which was the recipient of the highest honor for undergraduate students at Shenzhen University (rk 2/30000).<br>
 <br>
 <p>My research interests mainly focus on <b>Embodied AI (具身智能)</b>, on behavior planning and policy based on Diffusion Model, LLM and Reinforcement Learning. I am very interested in the application of policy in robot manipulation and autonomous driving scenarios.</p>
