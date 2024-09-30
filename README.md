@@ -4,6 +4,8 @@
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftianxingchen&count_bg=%238710FF&title_bg=%23E140D1&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/TianxingChen">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/TianxingChen">
+	<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/MarioChan2002">
+
 <br>
 <a href="tianxingchen.github.io.github.io" target="_blank"><img src="https://tianxingchen.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
 </h1>
