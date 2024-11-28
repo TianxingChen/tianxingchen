@@ -32,12 +32,12 @@ I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition 
 </table>
 
 # 📑 Papers
-* **[arXiv]** G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation, [Project Page](https://tianxingchen.github.io/G3Flow/), [Repo](https://github.com/TianxingChen/G3Flow)
-* **[arXiv]** DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation, [Project Page](https://dexdiffuser.github.io/)
-* **[arXiv]** Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking, [Project Page](https://hytidel.github.io/video-tracking-for-axis-estimation/) / [Repo](https://github.com/TianxingChen/VideoTracking-For-AxisEst)
-* **[ECCV Workshop (Best Paper)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version), [Project Page](https://robotwin-benchmark.github.io/early-version)
+* **[arXiv]** G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation, [Webpage](https://tianxingchen.github.io/G3Flow/), [Repo](https://github.com/TianxingChen/G3Flow)
+* **[arXiv]** DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation, [Webpage](https://dexdiffuser.github.io/)
+* **[arXiv]** Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking, [Webpage](https://hytidel.github.io/video-tracking-for-axis-estimation/) / [Repo](https://github.com/TianxingChen/VideoTracking-For-AxisEst)
+* **[ECCV Workshop (Best Paper)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version), [Webpage](https://robotwin-benchmark.github.io/early-version) / [Repo](https://github.com/TianxingChen/RoboTwin)
 * **[arXiv]** HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model
-* **[arXiv]** ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation: [Project Page](https://manicm-fast.github.io/) / [Repo](https://github.com/ManiCM-fast/ManiCM)
+* **[arXiv]** ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation: [Webpage](https://manicm-fast.github.io/) / [Repo](https://github.com/ManiCM-fast/ManiCM)
 * **[ICARM 2024]** Robust UAV Policy Learning for Urban Infrastructure Surface Screening
 
 ## 🌟 Others
