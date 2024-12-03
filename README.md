@@ -13,7 +13,6 @@ I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition 
 <br>
 <p>My research interests mainly focus on <b>Embodied AI (具身智能)</b>, on behavior planning and policy based on Diffusion Model, LLM and Reinforcement Learning. I am very interested in the application of policy in robot manipulation and autonomous driving scenarios.</p>
 <p><i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
-<p><i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
 
 
 
