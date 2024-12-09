@@ -40,7 +40,7 @@ I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition 
 * **[arXiv]** ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation: [Webpage](https://manicm-fast.github.io/) / [Repo](https://github.com/ManiCM-fast/ManiCM)
 * **[ICARM 2024]** Robust UAV Policy Learning for Urban Infrastructure Surface Screening
 
-<table><tr><td align="center" width="52%">
+<table width=100%><tr><td align="center" width="52%">
   
 [![ckwu's github stats](https://github-readme-stats.vercel.app/api?username=TianxingChen&show_icons=true&count_private=true)](https://github.com/TianxingChen/)
   
