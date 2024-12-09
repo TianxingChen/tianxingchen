@@ -43,13 +43,18 @@ I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition 
 
 
 # ⭐️ Others
-<table style="width: 100%"><tr><td align="center" width="52%">
-  
-[![ckwu's github stats](https://github-readme-stats.vercel.app/api?username=TianxingChen&show_icons=true&count_private=true)](https://github.com/TianxingChen/)
-  
-</td><td align="center" width="48%">
-  
-<strong>Paper-List-For-EmbodiedAI</strong>: [Project Page](https://github.com/tianxingchen/Paper-List)<br>
-<strong>Embodied-AI-Guide</strong>: [Project Page](https://github.com/tianxingchen/Embodied-AI-Guide)<br>
-<strong>SZU-FeiYue (深圳大学飞跃手册)</strong>: [SZU-FeiYue.github.io](https://szu-feiyue.github.io/)
-</td></tr></table>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="width: 52%;">
+      <!-- GitHub Stats -->
+      <a href="https://github.com/TianxingChen/">
+        <img src="https://github-readme-stats.vercel.app/api?username=TianxingChen&show_icons=true&count_private=true" alt="ckwu's github stats" />
+      </a>
+    </td>
+    <td style="width: 48%; text-align: left;">
+      <strong>Paper-List-For-EmbodiedAI</strong>: <a href="https://github.com/tianxingchen/Paper-List">Project Page</a><br>
+      <strong>Embodied-AI-Guide</strong>: <a href="https://github.com/tianxingchen/Embodied-AI-Guide">Project Page</a><br>
+      <strong>SZU-FeiYue (深圳大学飞跃手册)</strong>: <a href="https://szu-feiyue.github.io/">SZU-FeiYue.github.io</a>
+    </td>
+  </tr>
+</table>
