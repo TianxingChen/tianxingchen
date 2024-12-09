@@ -46,7 +46,7 @@ I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition 
   
 </td><td align="center" width="48%">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianxingChen&layout=compact&show_icons=true)](https://github.com/TianxingChen/github-readme-stats)
+ok
   
 </td></tr></table>
 
