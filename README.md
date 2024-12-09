@@ -44,7 +44,7 @@ I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition 
 <tr>
 	<td align="center" width="52%">[![TianxingChen's github stats](https://github-readme-stats.vercel.app/api?username=TianxingChen&show_icons=true&count_private=true)](https://github.com/TianxingChen/)</td>
 	<td align="center" width="48%">
-<!--   		[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianxingChen&layout=compact&show_icons=true)](https://github.com/TianxingChen/github-readme-stats) -->
+  		[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianxingChen&layout=compact&show_icons=true)](https://github.com/TianxingChen/github-readme-stats)
 <!-- 		* **Paper-List-For-EmbodiedAI**: [Project Page](https://github.com/tianxingchen/Paper-List)
 		* **Embodied-AI-Guide**: [Project Page](https://github.com/tianxingchen/Embodied-AI-Guide)
 		* **SZU-FeiYue (深圳大学飞跃手册)**: [SZU-FeiYue.github.io](https://szu-feiyue.github.io/) -->
