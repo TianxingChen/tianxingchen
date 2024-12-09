@@ -1,6 +1,7 @@
 
 <h1 align="center">
-	Hi, I'm <a href="https://tianxingchen.github.io/" target="_blank">Tianxing CHEN (陈天行)</a> 👋<br>
+	Hi, I'm <a href="https://tianxingchen.github.io/" target="_blank">Tianxing CHEN (陈天行)</a> 👋 | <a href="tianxingchen.github.io.github.io" target="_blank"><img src="https://tianxingchen.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
+	<br>
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftianxingchen.github.io&count_bg=%233FDBD2&title_bg=%233D62C7&icon=googlepodcasts.svg&icon_color=%23E9F742&title=Page+Viewers&edge_flat=false"/></a>
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/TianxingChen">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/TianxingChen">
