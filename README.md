@@ -42,11 +42,11 @@ I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition 
 
 <table><tr><td align="center" width="52%">
   
-[![ckwu's github stats](https://github-readme-stats.vercel.app/api?username=CK1201&show_icons=true&count_private=true)](https://github.com/CK1201/)
+[![ckwu's github stats](https://github-readme-stats.vercel.app/api?username=CK1201&show_icons=true&count_private=true)](https://github.com/TianxingChen/)
   
 </td><td align="center" width="48%">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CK1201&layout=compact&show_icons=true)](https://github.com/CK1201/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CK1201&layout=compact&show_icons=true)](https://github.com/TianxingChen/github-readme-stats)
   
 </td></tr></table>
 
