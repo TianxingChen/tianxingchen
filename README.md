@@ -21,13 +21,17 @@ I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition 
   <tr>
     <td>🏠 <b>Homepage</b>: <a href="https://tianxingchen.github.io" target="_blank">tianxingchen.github.io</a></td>
     <td>Google Scholar: <a href="https://scholar.google.com/citations?hl=en&user=pvS8MH8AAAAJ" target="_blank">Tianxing Chen (陈天行)</a></td>
-    <td>Email: <a href="mailto:chentianxing2002@gmail.com" target="_blank">chentianxing2002@gmail.com</a></td>
+    
   </tr>
 	
   <tr>
     <td>X: <a href="https://x.com/MarioChan2002" target="_blank">MarioChen2002</a></td>
     <td>Zhihu (知乎): <a href="https://www.zhihu.com/people/mario-chen-65" target="_blank">Tianxing Chen</a></td>
-	<td>WeChat (微信): <a href="https://tianxingchen.github.io/files/my_wechat.jpg" targe="_blank">QR Code</a> </td>
+	
+  </tr>
+  <tr>
+	  <td>Email: <a href="mailto:chentianxing2002@gmail.com" target="_blank">chentianxing2002@gmail.com</a></td>
+	  <td>WeChat (微信): <a href="https://tianxingchen.github.io/files/my_wechat.jpg" targe="_blank">QR Code</a> </td>
   </tr>
 </table>
 
