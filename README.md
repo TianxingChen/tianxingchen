@@ -57,8 +57,8 @@ I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition 
     </td>
     <td style="width: 48%; text-align: left;">
       <strong>Paper-List-For-EmbodiedAI</strong>: <a href="https://github.com/tianxingchen/Paper-List">Project Page</a><br>
-      <strong>Embodied-AI-Guide</strong>: <a href="https://github.com/tianxingchen/Embodied-AI-Guide">Project Page</a><br>
-      <strong>SZU-FeiYue (深圳大学飞跃手册)</strong>: <a href="https://szu-feiyue.github.io/">SZU-FeiYue.github.io</a>
+      <strong>具身智能入门指南</strong>: <a href="https://github.com/tianxingchen/Embodied-AI-Guide">Project Page</a><br>
+      <strong>深圳大学飞跃手册</strong>: <a href="https://szu-feiyue.github.io/">SZU-FeiYue.github.io</a>
     </td>
   </tr>
 </table>
