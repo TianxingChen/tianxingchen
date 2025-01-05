@@ -47,18 +47,16 @@ I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition 
 
 
 # ⭐️ Others
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td align="center" style="width: 52%;">
-      <!-- GitHub Stats -->
-      <a href="https://github.com/TianxingChen/">
-        <img src="https://github-readme-stats.vercel.app/api?username=TianxingChen&show_icons=true&count_private=true" alt="ckwu's github stats" />
-      </a>
-    </td>
-    <td style="width: 48%; text-align: left;">
-      <strong>Paper-List-For-EmbodiedAI</strong>: <a href="https://github.com/tianxingchen/Paper-List">Project Page</a><br>
-      <strong>具身智能入门指南</strong>: <a href="https://github.com/tianxingchen/Embodied-AI-Guide">Project Page</a><br>
-      <strong>深圳大学飞跃手册</strong>: <a href="https://szu-feiyue.github.io/">SZU-FeiYue.github.io</a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/TianxingChen/">
+	<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tianxingchen" />
+  </a>
+<a href="https://github.com/TianxingChen/">
+	<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tianxingchen&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<ur style="font-size: 15px">
+	<li>Embodied-AI-Guide (具身智能入门指南, Over 1k Stars⭐️): <a href="https://github.com/TianxingChen/Embodied-AI-Guide">https://github.com/TianxingChen/Embodied-AI-Guide</a></li>  
+		<div style="margin-top: -10px;"></div>
+	<li>SZU-Feiyue (深圳大学飞跃手册): <a href="https://szu-feiyue.github.io/">https://szu-feiyue.github.io</a></li>
+	<div style="margin-top: -10px;"></div>
+</ur>
