@@ -5,8 +5,8 @@
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/TianxingChen">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/TianxingChen">
 	<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/MarioChan2002">
-<br><br>
-<a href="tianxingchen.github.io" target="_blank"><img src="https://tianxingchen.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
+<br>
+<a href="tianxingchen.github.io" target="_blank" style="margin-top: 10px"><img src="https://tianxingchen.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
 <a href="tianxingchen.github.io" target="_blank"><img src="https://tianxingchen.github.io/files/institute/hku-mmlab3.png" height="70px" style="margin-bottom:-1px"></a>
 </h1>
 Hi! I am <strong>Tianxing Chen (陈天行)</strong>, currently a <u>4th-year undergraduate student</u> majoring in Computer Science at Shenzhen University (expected graduation in July 2025) and doing research at <a href="https://mmlab-hku.com/" target="_blank">MMLab@HKU</a>, supervised by <a href="http://luoping.me">Prof. Ping Luo</a>. I am closely working with <a href="yaomarkmu.github.io">Yao Mu</a>.<br><br>
