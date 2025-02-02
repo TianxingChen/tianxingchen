@@ -9,6 +9,11 @@
 <a href="https://tianxingchen.github.io/" target="_blank" style="margin-top: 10px"><img src="https://tianxingchen.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
 <a href="https://tianxingchen.github.io/" target="_blank"><img src="https://tianxingchen.github.io/files/institute/hku-mmlab3.png" height="70px" style="margin-bottom:-1px"></a>
 </h1>
+
+
+
+
+
 Hi! I am <strong>Tianxing Chen (陈天行)</strong>, currently a <u>4th-year undergraduate student</u> majoring in Computer Science at Shenzhen University (expected graduation in July 2025) and doing research at <a href="https://mmlab-hku.com/" target="_blank">MMLab@HKU</a>, supervised by <a href="http://luoping.me">Prof. Ping Luo</a>. I am closely working with <a href="yaomarkmu.github.io">Yao Mu</a>.<br><br>
 I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition and a national runner-up in the RAICOM robotics competition. I also received <strong>CCF Elite Collegiate Award (CCF优秀大学生, top 99 nationwide)</strong> and <strong>"Excellent Star of SZU (荔园卓越之星)"</strong> which was the recipient of the highest honor for undergraduate students at Shenzhen University (rk 2/30000).<br>
 <br>
@@ -17,23 +22,19 @@ I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition 
 
 
 
+
 # 📎 Information
-<div style="text-align: center;">
-  <table width="100%">
-    <tr>
-      <td>🏠 <b>Homepage</b>: <a href="https://tianxingchen.github.io" target="_blank">tianxingchen.github.io</a></td>
-      <td>Google Scholar: <a href="https://scholar.google.com/citations?hl=en&user=pvS8MH8AAAAJ" target="_blank">Tianxing Chen (陈天行)</a></td>
-    </tr>
-    <tr>
-      <td>X: <a href="https://x.com/MarioChan2002" target="_blank">MarioChen2002</a></td>
-      <td>Zhihu (知乎): <a href="https://www.zhihu.com/people/mario-chen-65" target="_blank">Tianxing Chen</a></td>
-    </tr>
-    <tr>
-      <td>Email: <a href="mailto:chentianxing2002@gmail.com" target="_blank">chentianxing2002@gmail.com</a></td>
-      <td>WeChat (微信): <a href="https://tianxingchen.github.io/files/my_wechat.jpg" target="_blank">QR Code</a></td>
-    </tr>
-  </table>
-</div>
+🏠 <b>Homepage</b>: <a href="https://tianxingchen.github.io" target="_blank">tianxingchen.github.io</a>
+<p  style="margin-top: 20px;">
+  <a href="mailto:chentianxing2002@gmail.com" target="_blank"><img src="./files/icon/email.png" height="32px" style="margin-bottom:-4px"></a>&nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&user=pvS8MH8AAAAJ&view_op=list_works&gmla=AOAOcb35IyZHtGmmYcpnDrJFmcsHLBXzjnq0ChbL0CXg4-PjM5UXRspLHuzXI4jgPc077WejF7RSsLUULIZ5ugIxcns6FURGdnTSpPi9JhAeKfhLVXsAIauozmPDdYzcku8VruOeRoapXM7nhkTlaNQ&iaan=Tianxing+Chen" target="_blank"><img src="./files/icon/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+  <a href="https://github.com/tianxingchen" target="_blank"><img src="./files/icon/github_s.jpg" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+  <a href="https://twitter.com/MarioChan2002" target="_blank"><img src="./files/icon/X_icon.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+  <a href="./files/my_wechat.jpg" target="_blank"><img src="./files/icon/wechat.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+  <a href="https://space.bilibili.com/520068753?spm_id_from=333.1007.0.0" target="_blank"><img src="./files/icon/bilibili.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+  <a href="https://www.zhihu.com/people/mario-chen-65" target="_blank"><img src="./files/icon/zhihu.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; 
+  <a href="https://www.xiaohongshu.com/user/profile/618fe930000000001000afe7" target="_blank"><img src="./files/icon/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a>
+</p>
 
 # 📑 Papers
 * **[arXiv 24]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins, [Webpage](https://robotwin-benchmark.github.io/early-version) / [Repo](https://github.com/TianxingChen/RoboTwin)
