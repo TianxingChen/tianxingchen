@@ -30,7 +30,8 @@
   <a href="https://www.xiaohongshu.com/user/profile/618fe930000000001000afe7" target="_blank"><img src="./files/icon/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a>
 </p>
 
-# 📑 Papers [[My Scholar Profile]](https://scholar.google.com/citations?user=pvS8MH8AAAAJ&hl=en)
+# 📑 Papers
+See [[My Google Scholar Profile]](https://scholar.google.com/citations?user=pvS8MH8AAAAJ&hl=en) or [[My Homepage]](tianxingchen.github.io) for more details.
 * **[arXiv 24]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins, [Webpage](https://robotwin-benchmark.github.io/early-version) / [Repo](https://github.com/TianxingChen/RoboTwin)
 * **[arXiv 24]** G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation, [Webpage](https://tianxingchen.github.io/G3Flow/), [Repo](https://github.com/TianxingChen/G3Flow)
 * **[arXiv 24]** DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation, [Webpage](https://dexdiffuser.github.io/)
