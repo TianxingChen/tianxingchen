@@ -23,7 +23,6 @@ I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition 
 
 
 
-# 📎 Information
 🏠 <b>Homepage</b>: <a href="https://tianxingchen.github.io" target="_blank">tianxingchen.github.io</a>
 <p  style="margin-top: 20px;">
   <a href="mailto:chentianxing2002@gmail.com" target="_blank"><img src="./files/icon/email.png" height="32px" style="margin-bottom:-4px"></a>&nbsp;
