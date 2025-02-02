@@ -42,10 +42,10 @@
 
 
 
-# ⭐️ Others
+<!-- # ⭐️ Others
 <a href="https://github.com/TianxingChen/">
 	<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tianxingchen" />
 </a>
 <a href="https://github.com/TianxingChen/">
 	<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tianxingchen&layout=compact&langs_count=8&card_width=320" />
-</a>
+</a> -->
