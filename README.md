@@ -13,14 +13,13 @@
 
 
 
-
+<h3>🏠 <b>Homepage</b>: <a href="https://tianxingchen.github.io" target="_blank">tianxingchen.github.io</a></h3>
 <p>Hi! I am <strong>Tianxing Chen (陈天行)</strong>, currently a <u>4th-year undergraduate student</u> majoring in Computer Science at Shenzhen University (expected graduation in July 2025) and doing research at <a href="https://mmlab-hku.com/" target="_blank">MMLab@HKU</a>, supervised by <a href="http://luoping.me">Prof. Ping Luo</a>. I am closely working with <a href="yaomarkmu.github.io">Yao Mu</a>.</p>
 <p>I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition and a national runner-up in the RAICOM robotics competition. I also received <strong>CCF Elite Collegiate Award (CCF优秀大学生, top 99 nationwide)</strong> and <strong>"Excellent Star of SZU (荔园卓越之星)"</strong> which was the recipient of the highest honor for undergraduate students at Shenzhen University (rk 2/30000).</p>
 <p>My research interests mainly focus on <b>Embodied AI (具身智能)</b>, especially on Robotic Foundation Model, Manipulation Policy (VLA, Diffusion Policy) and Robot Data Synthesizer.</p>
 <p><i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
 
-<p  style="margin-top: 20px;">
-  <h3>🏠 <b>Homepage</b>: <a href="https://tianxingchen.github.io" target="_blank">tianxingchen.github.io</a>  
+<p  style="margin-top: 0px;">
   <a href="mailto:chentianxing2002@gmail.com" target="_blank"><img src="./files/icon/email.png" height="32px" style="margin-bottom:-4px"></a>&nbsp;
   <a href="https://scholar.google.com/citations?hl=en&user=pvS8MH8AAAAJ&view_op=list_works&gmla=AOAOcb35IyZHtGmmYcpnDrJFmcsHLBXzjnq0ChbL0CXg4-PjM5UXRspLHuzXI4jgPc077WejF7RSsLUULIZ5ugIxcns6FURGdnTSpPi9JhAeKfhLVXsAIauozmPDdYzcku8VruOeRoapXM7nhkTlaNQ&iaan=Tianxing+Chen" target="_blank"><img src="./files/icon/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
   <a href="https://github.com/tianxingchen" target="_blank"><img src="./files/icon/github_s.jpg" height="30px" style="margin-bottom:-3px"></a>&nbsp;
@@ -28,7 +27,7 @@
   <a href="./files/my_wechat.jpg" target="_blank"><img src="./files/icon/wechat.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
   <a href="https://space.bilibili.com/520068753?spm_id_from=333.1007.0.0" target="_blank"><img src="./files/icon/bilibili.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
   <a href="https://www.zhihu.com/people/mario-chen-65" target="_blank"><img src="./files/icon/zhihu.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; 
-  <a href="https://www.xiaohongshu.com/user/profile/618fe930000000001000afe7" target="_blank"><img src="./files/icon/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a></h3>
+  <a href="https://www.xiaohongshu.com/user/profile/618fe930000000001000afe7" target="_blank"><img src="./files/icon/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a>
 </p>
 
 # 📑 Papers
