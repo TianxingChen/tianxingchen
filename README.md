@@ -38,7 +38,7 @@ See [My Google Scholar Profile](https://scholar.google.com/citations?user=pvS8MH
 * **[arXiv 24]** DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation, [Webpage](https://dexdiffuser.github.io/)
 * **[arXiv 24]** Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking, [Webpage](https://hytidel.github.io/video-tracking-for-axis-estimation/) / [Repo](https://github.com/TianxingChen/VideoTracking-For-AxisEst)
 * **[ECCV 24 Workshop (Best Paper)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version), [Webpage](https://robotwin-benchmark.github.io/early-version) / [Repo](https://github.com/TianxingChen/RoboTwin)
-* **[arXiv 24]** HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model
+* **[arXiv 24]** HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model, [arXiv](https://arxiv.org/abs/2408.09559)
 * **[arXiv 24]** ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation: [Webpage](https://manicm-fast.github.io/) / [Repo](https://github.com/ManiCM-fast/ManiCM)
 * **[ICARM 24]** Robust UAV Policy Learning for Urban Infrastructure Surface Screening, [Paper](https://ieeexplore.ieee.org/abstract/document/10715841/)
 
