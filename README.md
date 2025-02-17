@@ -44,10 +44,7 @@ See [My Google Scholar Profile](https://scholar.google.com/citations?user=pvS8MH
 
 
 
-<!-- # ⭐️ Others
-<a href="https://github.com/TianxingChen/">
-	<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tianxingchen" />
-</a>
-<a href="https://github.com/TianxingChen/">
-	<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tianxingchen&layout=compact&langs_count=8&card_width=320" />
-</a> -->
+# ⭐️ Open-source Projects
+
+* Embodied-AI-Guide 具身智能入门指南: [Repo](https://github.com/TianxingChen/Embodied-AI-Guide)
+* Awesome-Embodied-AI-Job 具身智能招贤榜: [Repo](https://github.com/StarCycle/Awesome-Embodied-AI-Job)
