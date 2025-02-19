@@ -32,7 +32,7 @@
 
 # 📑 Papers
 See [My Google Scholar Profile](https://scholar.google.com/citations?user=pvS8MH8AAAAJ&hl=en) or [My Homepage](https://tianxingchen.github.io) for more details.
-* **[arXiv 25]** Text2World: Benchmarking Large Language Models for Symbolic World Model Generation, [Webpage](https://text-to-world.github.io/)
+* **[arXiv 25]** Text2World: Benchmarking Large Language Models for Symbolic World Model Generation, [Webpage](https://text-to-world.github.io/), [Repo](https://github.com/Aaron617/text2world)
 * **[arXiv 25]** CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World, [Webpage](https://aureleopku.github.io/CordViP)
 * **[arXiv 24]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins, [Webpage](https://robotwin-benchmark.github.io/early-version) / [Repo](https://github.com/TianxingChen/RoboTwin)
 * **[arXiv 24]** G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation, [Webpage](https://tianxingchen.github.io/G3Flow/), [Repo](https://github.com/TianxingChen/G3Flow)
