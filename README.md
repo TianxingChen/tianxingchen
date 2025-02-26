@@ -36,7 +36,7 @@ See [My Google Scholar Profile](https://scholar.google.com/citations?user=pvS8MH
 * **[arXiv 25]** CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World, [Webpage](https://aureleopku.github.io/CordViP)
 * **[CVPR 25]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins, [Webpage](https://robotwin-benchmark.github.io/early-version) / [Repo](https://github.com/TianxingChen/RoboTwin)
 * **[CVPR 25]** G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation, [Webpage](https://tianxingchen.github.io/G3Flow/), [Repo](https://github.com/TianxingChen/G3Flow)
-* **[CVPR 25]** DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation, [Webpage](https://dexdiffuser.github.io/)
+* **[CVPR 25]** DexHandDiff: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation, [Webpage](https://dexdiffuser.github.io/)
 * **[arXiv 24]** Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking, [Webpage](https://hytidel.github.io/video-tracking-for-axis-estimation/) / [Repo](https://github.com/TianxingChen/VideoTracking-For-AxisEst)
 * **[ECCV 24 Workshop (Best Paper)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version), [Webpage](https://robotwin-benchmark.github.io/early-version) / [Repo](https://github.com/TianxingChen/RoboTwin)
 * **[arXiv 24]** HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model, [arXiv](https://arxiv.org/abs/2408.09559)
