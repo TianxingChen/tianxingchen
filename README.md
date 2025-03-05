@@ -32,6 +32,7 @@
 
 # 📑 Papers
 See [My Google Scholar Profile](https://scholar.google.com/citations?user=pvS8MH8AAAAJ&hl=en) or [My Homepage](https://tianxingchen.github.io) for more details.
+* **[arXiv 25]** AVR: Active Vision-Driven Robotic Precision Manipulation with Viewpoint and Focal Length Optimization
 * **[arXiv 25]** Text2World: Benchmarking Large Language Models for Symbolic World Model Generation, [Webpage](https://text-to-world.github.io/), [Repo](https://github.com/Aaron617/text2world)
 * **[arXiv 25]** CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World, [Webpage](https://aureleopku.github.io/CordViP)
 * **[CVPR 25]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins, [Webpage](https://robotwin-benchmark.github.io/early-version) / [Repo](https://github.com/TianxingChen/RoboTwin)
