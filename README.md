@@ -8,7 +8,7 @@
 <br>
 <a href="https://tianxingchen.github.io/" target="_blank" style="margin-top: 10px"><img src="https://tianxingchen.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
 <a href="https://tianxingchen.github.io/" target="_blank"><img src="https://tianxingchen.github.io/files/institute/hku-mmlab3.png" height="70px" style="margin-bottom:-1px"></a>
-	<a href="https://tianxingchen.github.io/" target="_blank"><img src="https://tianxingchen.github.io/files/institute/vita-logo1.png" height="70px" style="margin-bottom:-1px"></a>
+	<a href="https://tianxingchen.github.io/" target="_blank"><img src="https://github.com/TianxingChen/tianxingchen/blob/main/files/institute/vita-logo1.png" height="70px" style="margin-bottom:-1px"></a>
 </h1>
 
 
