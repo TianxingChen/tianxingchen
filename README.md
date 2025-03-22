@@ -15,7 +15,7 @@
 
 
 <h3>🏠 <b>Homepage</b>: <a href="https://tianxingchen.github.io" target="_blank">tianxingchen.github.io</a></h3>
-<p>Hi! I am <strong>Tianxing Chen (陈天行)</strong>, currently a <u>4th-year undergraduate student</u> majoring in Computer Science at Shenzhen University (expected graduation in July 2025) and doing research at <a href="https://mmlab-hku.com/" target="_blank">MMLab@HKU</a>, supervised by <a href="http://luoping.me">Prof. Ping Luo</a>. I am closely working with <a href="yaomarkmu.github.io">Yao Mu</a>.</p>
+<p>Hi! I am <strong>Tianxing Chen (陈天行)</strong>, currently a <u>Final year undergraduate student</u> majoring in Computer Science at Shenzhen University and doing research at <a href="https://mmlab-hku.com/" target="_blank">MMLab@HKU</a>, supervised by <a href="http://luoping.me">Prof. Ping Luo</a>. I am closely working with <a href="yaomarkmu.github.io">Yao Mu</a>.</p>
 <div style="magin-top: -10px"></div><p>I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition and a national runner-up in the RAICOM robotics competition. I also received <strong>CCF Elite Collegiate Award (CCF优秀大学生, top 99 nationwide)</strong> and <strong>"Excellent Star of SZU (荔园卓越之星)"</strong> which was the recipient of the highest honor for undergraduate students at Shenzhen University (rk 2/30000).</p>
 <div style="magin-top: -10px"></div><p>My research interests mainly focus on <b>Embodied AI (具身智能)</b>, especially on Robotic Foundation Model, Manipulation Policy (VLA, Diffusion Policy) and Robot Data Synthesizer.</p>
 <p><i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
