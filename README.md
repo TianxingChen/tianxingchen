@@ -37,8 +37,8 @@ See [My Google Scholar Profile](https://scholar.google.com/citations?user=pvS8MH
 * **[arXiv 25]** AVR: Active Vision-Driven Robotic Precision Manipulation with Viewpoint and Focal Length Optimization
 * **[arXiv 25]** Text2World: Benchmarking Large Language Models for Symbolic World Model Generation, [Webpage](https://text-to-world.github.io/), [Repo](https://github.com/Aaron617/text2world)
 * **[arXiv 25]** CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World, [Webpage](https://aureleopku.github.io/CordViP)
-* **[CVPR 25 (Highlight)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins, [Webpage](https://robotwin-benchmark.github.io/early-version) / [Repo](https://github.com/TianxingChen/RoboTwin)
-* **[CVPR 25]** G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation, [Webpage](https://tianxingchen.github.io/G3Flow/), [Repo](https://github.com/TianxingChen/G3Flow)
+* **[CVPR 25 (Highlight)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins, [Webpage](https://robotwin-benchmark.github.io/early-version) / [Repo](https://github.com/TianxingChen/RoboTwin) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/TianxingChen/RoboTwin">
+* **[CVPR 25]** G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation, [Webpage](https://tianxingchen.github.io/G3Flow/), [Repo](https://github.com/TianxingChen/G3Flow) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/TianxingChen/G3Flow">
 * **[CVPR 25]** DexHandDiff: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation, [Webpage](https://dexdiffuser.github.io/)
 * **[arXiv 24]** Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking, [Webpage](https://hytidel.github.io/video-tracking-for-axis-estimation/) / [Repo](https://github.com/TianxingChen/VideoTracking-For-AxisEst)
 * **[ECCV 24 Workshop (Best Paper)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version), [Webpage](https://robotwin-benchmark.github.io/early-version) / [Repo](https://github.com/TianxingChen/RoboTwin)
@@ -50,5 +50,5 @@ See [My Google Scholar Profile](https://scholar.google.com/citations?user=pvS8MH
 
 # ⭐️ Open-source Projects
 
-* Embodied-AI-Guide 具身智能入门指南: [Repo](https://github.com/TianxingChen/Embodied-AI-Guide)
-* Awesome-Embodied-AI-Job 具身智能招贤榜: [Repo](https://github.com/StarCycle/Awesome-Embodied-AI-Job)
+* Embodied-AI-Guide 具身智能入门指南: [Repo](https://github.com/TianxingChen/Embodied-AI-Guide) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/TianxingChen/Embodied-AI-Guide">
+* Awesome-Embodied-AI-Job 具身智能招贤榜: [Repo](https://github.com/StarCycle/Awesome-Embodied-AI-Job) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/StarCycle/Awesome-Embodied-AI-Job">
