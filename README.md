@@ -2,7 +2,6 @@
 <h1 align="center">
   Hi, I'm <a href="https://tianxingchen.github.io/" target="_blank">Tianxing CHEN (陈天行) 👋</a> <br>
 <!-- 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftianxingchen.github.io&count_bg=%233FDBD2&title_bg=%233D62C7&icon=googlepodcasts.svg&icon_color=%23E9F742&title=Page+Viewers&edge_flat=false"/></a> -->
-	<a href="https://visitorbadge.io/status?path=https%3A%2F%2Ftianxingchen.github.io%2F"><img style="height: 70%" src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Ftianxingchen.github.io%2F&labelColor=%232ccce4&countColor=%230158f9" /></a>
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/TianxingChen">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/TianxingChen">
 	<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/MarioChan2002">
@@ -30,6 +29,7 @@
   <a href="https://space.bilibili.com/520068753?spm_id_from=333.1007.0.0" target="_blank"><img src="./files/icon/bilibili.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
   <a href="https://www.zhihu.com/people/mario-chen-65" target="_blank"><img src="./files/icon/zhihu.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; 
   <a href="https://www.xiaohongshu.com/user/profile/618fe930000000001000afe7" target="_blank"><img src="./files/icon/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Ftianxingchen.github.io%2F"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Ftianxingchen.github.io%2F&labelColor=%232ccce4&countColor=%230158f9" /></a>
 </p>
 
 # 📑 Papers
