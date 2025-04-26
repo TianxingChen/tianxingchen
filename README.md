@@ -53,5 +53,5 @@
 
 # ⭐️ Open-source Projects
 
-* Embodied-AI-Guide 具身智能入门指南: [Repo](https://github.com/TianxingChen/Embodied-AI-Guide) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/TianxingChen/Embodied-AI-Guide">
+* Embodied-AI-Guide 具身智能技术指南: [Repo](https://github.com/TianxingChen/Embodied-AI-Guide) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/TianxingChen/Embodied-AI-Guide">
 * Awesome-Embodied-AI-Job 具身智能招贤榜: [Repo](https://github.com/StarCycle/Awesome-Embodied-AI-Job) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/StarCycle/Awesome-Embodied-AI-Job">
