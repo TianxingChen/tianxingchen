@@ -38,7 +38,7 @@
 ## First / Co-first Author
 * **[CVPR 25 (Highlight)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins, [Webpage](https://robotwin-benchmark.github.io) / [Repo](https://github.com/TianxingChen/RoboTwin) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/TianxingChen/RoboTwin">
 * **[CVPR 25]** G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation, [Webpage](https://tianxingchen.github.io/G3Flow/), [Repo](https://github.com/TianxingChen/G3Flow) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/TianxingChen/G3Flow">
-* **[arXiv 25]** Text2World: Benchmarking Large Language Models for Symbolic World Model Generation, [Webpage](https://text-to-world.github.io/), [Repo](https://github.com/Aaron617/text2world)
+* **[ACL 25]** Text2World: Benchmarking Large Language Models for Symbolic World Model Generation, [Webpage](https://text-to-world.github.io/), [Repo](https://github.com/Aaron617/text2world)
 * **[arXiv 24]** Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking, [Webpage](https://hytidel.github.io/video-tracking-for-axis-estimation/) / [Repo](https://github.com/TianxingChen/VideoTracking-For-AxisEst)
 * **[ECCV 24 Workshop (Best Paper)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version), [Webpage](https://robotwin-benchmark.github.io/early-version) / [Repo](https://github.com/TianxingChen/RoboTwin)
 
@@ -46,7 +46,7 @@
 * **[arXiv 25]** AVR: Active Vision-Driven Robotic Precision Manipulation with Viewpoint and Focal Length Optimization
 * **[RSS 25]** CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World, [Webpage](https://aureleopku.github.io/CordViP)
 * **[CVPR 25]** DexHandDiff: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation, [Webpage](https://dexdiffuser.github.io/)
-* **[arXiv 24]** HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model, [arXiv](https://arxiv.org/abs/2408.09559)
+* **[ACL 25]** HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model, [arXiv](https://arxiv.org/abs/2408.09559)
 * **[arXiv 24]** ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation: [Webpage](https://manicm-fast.github.io/) / [Repo](https://github.com/ManiCM-fast/ManiCM)
 * **[ICARM 24]** Robust UAV Policy Learning for Urban Infrastructure Surface Screening, [Paper](https://ieeexplore.ieee.org/abstract/document/10715841/)
 
