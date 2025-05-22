@@ -42,7 +42,7 @@
 * **[arXiv 24]** Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking, [Webpage](https://hytidel.github.io/video-tracking-for-axis-estimation/) / [Repo](https://github.com/TianxingChen/VideoTracking-For-AxisEst)
 * **[ECCV 24 Workshop (Best Paper)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version), [Webpage](https://robotwin-benchmark.github.io/early-version) / [Repo](https://github.com/TianxingChen/RoboTwin)
 
-## Others
+## Co-Author
 * **[arXiv 25]** AVR: Active Vision-Driven Robotic Precision Manipulation with Viewpoint and Focal Length Optimization
 * **[RSS 25]** CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World, [Webpage](https://aureleopku.github.io/CordViP)
 * **[CVPR 25]** DexHandDiff: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation, [Webpage](https://dexdiffuser.github.io/)
@@ -51,7 +51,7 @@
 * **[ICARM 24]** Robust UAV Policy Learning for Urban Infrastructure Surface Screening, [Paper](https://ieeexplore.ieee.org/abstract/document/10715841/)
 
 
-# ⭐️ Open-source Projects
+# 📷 Open-source Projects
 
 * Embodied-AI-Guide 具身智能技术指南: [Repo](https://github.com/TianxingChen/Embodied-AI-Guide) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/TianxingChen/Embodied-AI-Guide">
 * Awesome-Embodied-AI-Job 具身智能招贤榜: [Repo](https://github.com/StarCycle/Awesome-Embodied-AI-Job) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/StarCycle/Awesome-Embodied-AI-Job">
