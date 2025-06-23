@@ -36,7 +36,7 @@
 > See [My Google Scholar Profile](https://scholar.google.com/citations?user=pvS8MH8AAAAJ&hl=en) or [My Homepage](https://tianxingchen.github.io) for more details.
 
 ## First / Co-first Author
-* **[arXiv 25]**RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation, [Webpage](https://robotwin-platform.github.io) / [Repo](https://github.com/RoboTwin-Platform/RoboTwin) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/RoboTwin-Platform/RoboTwin">
+* **[arXiv 25]**RoboTw in 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation, [Webpage](https://robotwin-platform.github.io) / [Repo](https://github.com/RoboTwin-Platform/RoboTwin) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/RoboTwin-Platform/RoboTwin">
 * **[CVPR 25 (Highlight)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins, [Webpage](https://robotwin-benchmark.github.io) / [Repo](https://github.com/TianxingChen/RoboTwin) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/RoboTwin-Platform/RoboTwin">
 * **[CVPR 25]** G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation, [Webpage](https://tianxingchen.github.io/G3Flow/), [Repo](https://github.com/TianxingChen/G3Flow) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/TianxingChen/G3Flow">
 * **[ACL 25]** Text2World: Benchmarking Large Language Models for Symbolic World Model Generation, [Webpage](https://text-to-world.github.io/), [Repo](https://github.com/Aaron617/text2world)
