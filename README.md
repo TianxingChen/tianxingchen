@@ -15,7 +15,7 @@
 
 
 <h3>🏠 <b>Homepage</b>: <a href="https://tianxingchen.github.io" target="_blank">tianxingchen.github.io</a></h3>
-<p>Hi! I am Tianxing Chen (Chinese name: 陈天行), a first-year Ph.D. student at <a href="https://mmlab.hk/" target="_blank">MMLab@HKU</a> (since Sep. 2025), supervised by <a href="http://luoping.me">Prof. Ping Luo</a> and working closely with <a href="yaomarkmu.github.io">Dr. Yao Mu</a>. My research focuses on Embodied AI, including robotic foundation models, generalizable manipulation policies (e.g., VLA, diffusion policy), and robot data synthesizers.</p>
+<p>Hi! I am <b>Tianxing Chen (Chinese name: 陈天行)</b>, a first-year Ph.D. student at <a href="https://mmlab.hk/" target="_blank">MMLab@HKU</a> (since Sep. 2025), supervised by <a href="http://luoping.me">Prof. Ping Luo</a> and working closely with <a href="yaomarkmu.github.io">Dr. Yao Mu</a>. My research focuses on Embodied AI, including robotic foundation models, generalizable manipulation policies (e.g., VLA, diffusion policy), and robot data synthesizers.</p>
 
 <p>I have published multiple papers at top venues such as CVPR, RSS, and ACL. My work received the <b>Best Paper Award</b> at the ECCV 2024 MAAS Workshop, an <b>Outstanding Poster Award</b> at ChinaSI, and a CVPR <b>Highlight</b> recognition. Beyond research, I have been honored with the CCF Elite Collegiate Award (99 nationwide) and the “Excellent Star of SZU”, the highest undergraduate honor at Shenzhen University (ranked 2/30,000). I also won a silver medal in the ACM-ICPC regional competition and was national runner-up in the RAICOM robotics developer competition.</p>
 
