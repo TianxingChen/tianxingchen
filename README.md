@@ -15,9 +15,11 @@
 
 
 <h3>🏠 <b>Homepage</b>: <a href="https://tianxingchen.github.io" target="_blank">tianxingchen.github.io</a></h3>
-<p>Hi! I am <strong>Tianxing Chen (陈天行)</strong>, currently a <u>Final year undergraduate student</u> majoring in Computer Science at Shenzhen University and doing research at <a href="https://mmlab.hk/" target="_blank">MMLab@HKU</a>, supervised by <a href="http://luoping.me">Prof. Ping Luo</a>. I am closely working with <a href="yaomarkmu.github.io">Yao Mu</a>.</p>
-<div style="magin-top: -10px"></div><p>I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition and a national runner-up in the RAICOM robotics competition. I also received <strong>CCF Elite Collegiate Award (CCF优秀大学生, top 99 nationwide)</strong> and <strong>"Excellent Star of SZU (荔园卓越之星)"</strong> which was the recipient of the highest honor for undergraduate students at Shenzhen University (rk 2/30000).</p>
-<div style="magin-top: -10px"></div><p>My research interests mainly focus on <b>Embodied AI (具身智能)</b>, especially on Robotic Foundation Model, Manipulation Policy (VLA, Diffusion Policy) and Robot Data Synthesizer.</p>
+<p>Hi! I am Tianxing Chen (Chinese name: 陈天行), a first-year Ph.D. student at <a href="https://mmlab.hk/" target="_blank">MMLab@HKU</a> (since Sep. 2025), supervised by <a href="http://luoping.me">Prof. Ping Luo</a> and working closely with <a href="yaomarkmu.github.io">Dr. Yao Mu</a>. My research focuses on Embodied AI, including robotic foundation models, generalizable manipulation policies (e.g., VLA, diffusion policy), and robot data synthesizers.</p>
+
+<p>I have published multiple papers at top venues such as CVPR, RSS, and ACL. My work received the <b>Best Paper Award</b> at the ECCV 2024 MAAS Workshop, an <b>Outstanding Poster Award</b> at ChinaSI, and a CVPR <b>Highlight</b> recognition. Beyond research, I have been honored with the CCF Elite Collegiate Award (99 nationwide) and the “Excellent Star of SZU”, the highest undergraduate honor at Shenzhen University (ranked 2/30,000). I also won a silver medal in the ACM-ICPC regional competition and was national runner-up in the RAICOM robotics developer competition.</p>
+
+<p>I am the co-founder of <a href="https://lumina-embodied.ai/">Lumina Embodied AI Community</a>, and have served as an organizer of the CVPR 2025 MEIS Workshop, the CVPR 2025 RoboTwin Dual-Arm Collaboration Challenge, and the Greater Bay Area Embodied AI Workshop. I am also a student committee member of the Autonomous Robotic Technology Seminar (ARTS). In addition, I share my thoughts on research and technology as a blogger and vlogger, with over 14k followers on Rednote 🎒@<a style="color: red" href="https://www.xiaohongshu.com/user/profile/618fe930000000001000afe7">TianxingChen (陈天行)</a>.</p>
 <p><i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
 
 <p  style="margin-top: -10px;">
@@ -45,6 +47,7 @@
 * **[ECCV 24 Workshop (Best Paper)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version), [Webpage](https://robotwin-benchmark.github.io/early-version) / [Repo](https://github.com/TianxingChen/RoboTwin)
 
 ## Co-Author
+* **[arXiv 25]** HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents, [arXiv](https://arxiv.org/abs/2508.02629)
 * **[arXiv 25]** AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory, [Repo](https://github.com/autobio-bench/AutoBio)
 * **[arXiv 25]** AVR: Active Vision-Driven Robotic Precision Manipulation with Viewpoint and Focal Length Optimization
 * **[RSS 25]** CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World, [Webpage](https://aureleopku.github.io/CordViP)
