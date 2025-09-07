@@ -47,7 +47,7 @@
 * **[ECCV 24 Workshop (Best Paper)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version), [Webpage](https://robotwin-benchmark.github.io/early-version) / [Repo](https://github.com/TianxingChen/RoboTwin)
 
 ## Co-Author
-* **[arXiv 25]** HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents, [arXiv](https://arxiv.org/abs/2508.02629)
+* **[ICLR 25 Workshop]** HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents, [arXiv](https://arxiv.org/abs/2508.02629)
 * **[arXiv 25]** AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory, [Repo](https://github.com/autobio-bench/AutoBio)
 * **[arXiv 25]** AVR: Active Vision-Driven Robotic Precision Manipulation with Viewpoint and Focal Length Optimization
 * **[RSS 25]** CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World, [Webpage](https://aureleopku.github.io/CordViP)
