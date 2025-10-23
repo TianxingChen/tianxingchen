@@ -15,11 +15,55 @@
 
 
 <h3>🏠 <b>Homepage</b>: <a href="https://tianxingchen.github.io" target="_blank">tianxingchen.github.io</a></h3>
-<p>Hi! I am <b>Tianxing Chen (Chinese name: 陈天行)</b>, a first-year Ph.D. student at <a href="https://mmlab.hk/" target="_blank">MMLab@HKU</a> (since Sep. 2025), supervised by <a href="http://luoping.me">Prof. Ping Luo</a> and working closely with <a href="yaomarkmu.github.io">Dr. Yao Mu</a>. My research focuses on Embodied AI, including robotic foundation models, generalizable manipulation policies (e.g., VLA, diffusion policy), and robot data synthesizers.</p>
 
-<p>I have published multiple papers at top venues such as CVPR, RSS, and ACL. My work received the <b>Best Paper Award</b> at the ECCV 2024 MAAS Workshop, an <b>Outstanding Poster Award</b> at ChinaSI, and a CVPR <b>Highlight</b> recognition. Beyond research, I have been honored with the CCF Elite Collegiate Award (99 nationwide) and the “Excellent Star of SZU”, the highest undergraduate honor at Shenzhen University (ranked 2/30,000). I also won a silver medal in the ACM-ICPC regional competition and was national runner-up in the RAICOM robotics developer competition.</p>
+<div style="font-size: 15px">
+<p>Hi! I am <b>Tianxing Chen (Chinese name: 陈天行)</b>, a first-year Ph.D.
+	student at <a href="https://mmlab.hk/" target="_blank">MMLab@HKU</a>
+	(since Sep. 2025), supervised by <a href="http://luoping.me">Prof. Ping
+		Luo</a>. My research focuses on Embodied AI, including robotic foundation
+	models, generalizable manipulation policies (e.g., VLA, diffusion policy),
+	and robot data synthesizers.</p>
 
-<p>I am the co-founder of <a href="https://lumina-embodied.ai/">Lumina Embodied AI Community</a>, and have served as an organizer of the CVPR 2025 MEIS Workshop, the CVPR 2025 RoboTwin Dual-Arm Collaboration Challenge, and the Greater Bay Area Embodied AI Workshop. I am also a student committee member of the Autonomous Robotic Technology Seminar (ARTS). In addition, I share my thoughts on research and technology as a blogger and vlogger, with over 14k followers on Rednote 🎒@<a style="color: red" href="https://www.xiaohongshu.com/user/profile/618fe930000000001000afe7">TianxingChen (陈天行)</a>.</p>
+<p>I have published multiple papers at top venues such as CVPR, RSS, and
+	ACL. My work received the <b>Best Paper Award</b> at the ECCV 2024 MAAS
+	Workshop, a <b>Best Poster Award</b> at IROS 2025 RoMaDo Workshop,  an <b>Outstanding Poster Award</b> at ChinaSI 2025, and a CVPR
+	<b>Highlight</b> recognition. Beyond research, I have been honored with
+	the CCF Elite Collegiate Award (99 nationwide) and the “Excellent Star of
+	SZU”, the highest undergraduate honor at Shenzhen University (ranked
+	2/30,000). I also won a silver medal in the ACM-ICPC regional competition
+	and was national runner-up in the RAICOM robotics developer
+	competition.</p>
+
+<p>I am the co-founder of <a href="https://lumina-embodied.ai/">Lumina
+		Embodied AI Community</a>, and have served as an organizer of the SIGGRAPH ASIA 2025 TriFusion Workshop, CVPR
+	2025 MEIS Workshop, the CVPR 2025 RoboTwin Dual-Arm Collaboration
+	Challenge, and the Greater Bay Area Embodied AI Workshop. I am also a
+	student committee member of the Autonomous Robotic Technology Seminar
+	(ARTS). In addition, I share my thoughts on research and technology as a
+	blogger and vlogger, with over 15k followers on Rednote 🎒@<a
+		style="color: red"
+		href="https://www.xiaohongshu.com/user/profile/618fe930000000001000afe7">TianxingChen
+		(陈天行)</a>.</p>
+<details>
+	<summary>中文版个人简介</summary>
+	<p>Hi！我是<b>陈天行 (English name: Tianxing Chen)</b>，现在是香港大学<a
+			href="https://mmlab.hk/"
+			target="_blank">MMLab@HKU</a>的一年级博士生（始于2025年9月），师从<a
+			href="http://luoping.me">罗平教授</a>。我的研究方向是具身智能，包括机器人通用操作策略、数据合成器、视觉基座模型等。</p>
+	<p>我在CVPR、RSS、ACL等学术顶会发表多篇论文，在ECCV 2024 MAAS
+		Workshop上获得最佳论文奖，在IROS 2025 RoMaDo Workshop上获得最佳海报奖，在ChinaSI 2025中获得Outstanding Poster，获得CVPR
+		Highlight等。我曾经获得CCF优秀大学生（全国年度99人）、荔园卓越之星（深圳大学本科生最高荣誉）等荣誉。竞赛上在ACM-ICPC国际大学生程序设计竞赛中获得银牌，在RAICOM机器人开发者大赛中获得赛道全国亚军。</p>
+	<p>我是<a
+			href="https://lumina-embodied.ai/">Lumina具身智能社区</a>的联合创始人，也曾作为组织者举办SIGGRAPH ASIA 2025 TriFusion Workshop、CVPR
+		2025 MEIS Workshop、CVPR 2025
+		RoboTwin双臂协作竞赛、大湾区具身智能研讨会等。担任ARTS自主机器人技术研讨会的学生委员会成员。同时，我还在小红书拥有超15k粉丝🎒@<a
+			style="color: red"
+			href="https://www.xiaohongshu.com/user/profile/618fe930000000001000afe7">TianxingChen
+			(陈天行)</a>。</p>
+</details>
+</div>
+
+
 <p><i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
 
 <p  style="margin-top: -10px;">
