@@ -72,7 +72,7 @@
 * **[ICLR 26]** SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning, [arXiv](https://arxiv.org/abs/2509.09674)
 * **[ICLR 25 Workshop]** HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents, [arXiv](https://arxiv.org/abs/2508.02629)
 * **[ICLR 26]** AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory, [Code](https://github.com/autobio-bench/AutoBio)
-* **[arXiv 25]** AVR: Active Vision-Driven Robotic Precision Manipulation with Viewpoint and Focal Length Optimization
+* **[ICRA 26]** AVR: Active Vision-Driven Robotic Precision Manipulation with Viewpoint and Focal Length Optimization
 * **[RSS 25]** CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World, [Webpage](https://aureleopku.github.io/CordViP)
 * **[CVPR 25]** DexHandDiff: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation, [Webpage](https://dexdiffuser.github.io/)
 * **[ACL 25]** HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model, [arXiv](https://arxiv.org/abs/2408.09559)
