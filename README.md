@@ -18,7 +18,7 @@
 
 <div style="font-size: 15px">
         <p>Hi! I am <b>Tianxing Chen (Chinese name: 陈天行)</b>, a first-year Ph.D. student at <a href="https://mmlab.hk/" target="_blank">MMLab@HKU</a>, The University of Hong Kong (since Oct. 2025), supervised by <a href="http://luoping.me">Prof. Ping
-							Luo</a>. My research focuses on Embodied AI, including robotic foundation models, generalizable manipulation policies (e.g., VLA, diffusion policy), and robot data synthesizers. I am now working as a research intern at ByteDance Seed Edge Team.</p>
+							Luo</a>. My research focuses on Embodied AI, including robotic foundation models, generalizable manipulation policies (e.g., VLA, diffusion policy), and robot data synthesizers.</p>
 
 <p>I have published multiple papers at top venues such as CVPR, RSS, ICLR and ACL, and received over 10k Github Stars. My work received <b>Best Paper Award</b> at the ECCV 2024 MAAS Workshop, <b>Champion</b> at NeurIPS 2025 MARS Challenge (Manipulation Track), third-runnerup at IROS 2025 AgiBot World Challenge (Manipulation Track), <b>Best Poster Award</b> at IROS 2025 RoMaDo, RoDGE, AIR4S Workshop and ChinaSI 2025, and a CVPR
             <b>Highlight</b> recognition. Beyond research, I have been honored with the CCF Elite Collegiate Award (99 nationwide) and the “Excellent Star of SZU”, the highest undergraduate honor at Shenzhen University (ranked 2/30,000). I also won a silver medal in the ACM-ICPC regional competition and was national runner-up in the RAICOM robotics developer competition.
@@ -30,7 +30,7 @@
 							(陈天行)</a>.</p>
         <details>
             <summary>中文版个人简介</summary>
-            <p>Hi！我是<b>陈天行 (English name: Tianxing Chen)</b>，现在是香港大学<a href="https://mmlab.hk/" target="_blank">MMLab@HKU</a>的一年级博士生（始于2025年9月），师从<a href="http://luoping.me">罗平教授</a>。我的研究方向是具身智能，包括机器人通用操作策略、数据合成器、视觉基座模型等。我正在字节跳动Seed Edge团队担任研究实习生。</p>
+            <p>Hi！我是<b>陈天行 (English name: Tianxing Chen)</b>，现在是香港大学<a href="https://mmlab.hk/" target="_blank">MMLab@HKU</a>的一年级博士生（始于2025年9月），师从<a href="http://luoping.me">罗平教授</a>。我的研究方向是具身智能，包括机器人通用操作策略、数据合成器、视觉基座模型等。</p>
             <p>我在CVPR、RSS、ICLR、ACL等学术顶会发表多篇论文，Github上获得超一万星标。在ECCV 2024 MAAS Workshop上获得最佳论文奖，获得NeurIPS 2025 MARS操作赛冠军，IROS 2025 AgiBot World操作赛季军，在IROS 2025 RoMaDo、RoDGE、AIR4S Workshop与ChinaSI 2025上获得最佳海报奖，获得CVPR Highlight等。我曾经获得CCF优秀大学生（全国年度99人）、荔园卓越之星（深圳大学本科生最高荣誉）等荣誉。竞赛上获得ACM-ICPC国际大学生程序设计竞赛银牌，在RAICOM机器人开发者大赛中获得赛道全国亚军。
             </p>
             <p>我是<a href="https://lumina-embodied.ai/">Lumina具身智能社区</a>的创始人，也曾作为组织者举办SIGGRAPH ASIA 2025 TriFusion Workshop、CVPR 2025 MEIS Workshop、CVPR 2025 RoboTwin双臂协作竞赛、大湾区具身智能研讨会等。担任ARTS自主机器人技术研讨会的学生委员会成员。同时，我还在小红书拥有超19k粉丝🎒@
@@ -58,6 +58,7 @@
 > See [My Google Scholar Profile](https://scholar.google.com/citations?user=pvS8MH8AAAAJ&hl=en) or [My Homepage](https://tianxingchen.github.io) for more details.
 
 ## First / Co-first Author
+* **[arXiv 26]** UniVTAC: A Unified Simulation Platform for Visuo-Tactile Manipulation Data Generation, Learning, and Benchmarking, [website](https://univtac.github.io/)
 * **[arXiv 25]** FieldGen: From Teleoperated Pre-Manipulation Trajectories to Field-Guided Data Generation, [website](https://fieldgen.github.io/)
 * **[arXiv 25]** RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation, [Webpage](https://robotwin-platform.github.io) / [Code](https://github.com/RoboTwin-Platform/RoboTwin) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/RoboTwin-Platform/RoboTwin">
 * **[Technical Report]** Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge at CVPR 2025 MEIS Workshop, [Webpage](https://robotwin-benchmark.github.io/cvpr-2025-challenge/)
@@ -68,6 +69,7 @@
 * **[ECCV 24 Workshop (Best Paper)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version), [Webpage](https://robotwin-benchmark.github.io/early-version) / [Code](https://github.com/TianxingChen/RoboTwin)
 
 ## Co-Author
+* **[ICRA 26]** LeHome: A Simulation Environment for Deformable Object Manipulation in Household Scenarios, TODO
 * **[ICLR 26]** CubeBench: Diagnosing Interactive, Long-Horizon Spatial Reasoning Under Partial Observations, [arXiv](https://arxiv.org/abs/2512.23328)
 * **[ICLR 26]** SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning, [arXiv](https://arxiv.org/abs/2509.09674)
 * **[ICLR 25 Workshop]** HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents, [arXiv](https://arxiv.org/abs/2508.02629)
