@@ -58,6 +58,7 @@
 > See [My Google Scholar Profile](https://scholar.google.com/citations?user=pvS8MH8AAAAJ&hl=en) or [My Homepage](https://tianxingchen.github.io) for more details.
 
 ## First / Co-first Author
+* **[arXiv 26]** RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design, [website](https://rmbench.github.io/)
 * **[arXiv 26]** UniVTAC: A Unified Simulation Platform for Visuo-Tactile Manipulation Data Generation, Learning, and Benchmarking, [website](https://univtac.github.io/)
 * **[arXiv 25]** FieldGen: From Teleoperated Pre-Manipulation Trajectories to Field-Guided Data Generation, [website](https://fieldgen.github.io/)
 * **[arXiv 25]** RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation, [Webpage](https://robotwin-platform.github.io) / [Code](https://github.com/RoboTwin-Platform/RoboTwin) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/RoboTwin-Platform/RoboTwin">
