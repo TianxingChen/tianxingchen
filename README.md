@@ -6,8 +6,8 @@
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/TianxingChen">
 	<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/MarioChan2002">
 <br>
-<a href="https://tianxingchen.github.io/" target="_blank" style="margin-top: 10px"><img src="https://tianxingchen.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
-<a href="https://tianxingchen.github.io/" target="_blank"><img src="https://tianxingchen.github.io/files/institute/hku-mmlab3.png" height="70px" style="margin-bottom:-1px"></a>
+<a href="https://tianxingchen.github.io/" target="_blank" style="margin-top: 10px"><img src="https://tianxingchen.github.io/assets/files/institute/Xspark_1.png" height="70px" style="margin-bottom:-1px"></a>
+<a href="https://tianxingchen.github.io/" target="_blank"><img src="https://tianxingchen.github.io/assets/files/institute/HKU-CDS.png" height="70px" style="margin-bottom:-1px"></a>
 	<a href="https://tianxingchen.github.io/" target="_blank"><img src="https://github.com/TianxingChen/tianxingchen/blob/main/files/institute/lumina-logo.png" height="70px" style="margin-bottom:-1px"></a>
 </h1>
 
@@ -58,10 +58,11 @@
 > See [My Google Scholar Profile](https://scholar.google.com/citations?user=pvS8MH8AAAAJ&hl=en) or [My Homepage](https://tianxingchen.github.io) for more details.
 
 ## First / Co-first Author
+* **[arXiv 26]** ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K, [website](https://manitwin.github.io/)
 * **[arXiv 26]** RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design, [website](https://rmbench.github.io/)
 * **[arXiv 26]** UniVTAC: A Unified Simulation Platform for Visuo-Tactile Manipulation Data Generation, Learning, and Benchmarking, [website](https://univtac.github.io/)
 * **[arXiv 25]** FieldGen: From Teleoperated Pre-Manipulation Trajectories to Field-Guided Data Generation, [website](https://fieldgen.github.io/)
-* **[arXiv 25]** RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation, [Webpage](https://robotwin-platform.github.io) / [Code](https://github.com/RoboTwin-Platform/RoboTwin) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/RoboTwin-Platform/RoboTwin">
+* **[ICML 26]** RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation, [Webpage](https://robotwin-platform.github.io) / [Code](https://github.com/RoboTwin-Platform/RoboTwin) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/RoboTwin-Platform/RoboTwin">
 * **[Technical Report]** Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge at CVPR 2025 MEIS Workshop, [Webpage](https://robotwin-benchmark.github.io/cvpr-2025-challenge/)
 * **[CVPR 25 (Highlight)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins, [Webpage](https://robotwin-benchmark.github.io) / [Code](https://github.com/TianxingChen/RoboTwin) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/RoboTwin-Platform/RoboTwin">
 * **[CVPR 25]** G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation, [Webpage](https://tianxingchen.github.io/G3Flow/), [Code](https://github.com/TianxingChen/G3Flow) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/TianxingChen/G3Flow">
