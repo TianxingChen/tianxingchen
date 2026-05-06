@@ -16,39 +16,39 @@
 
 <h3>🏠 <b>Homepage</b>: <a href="https://tianxingchen.github.io" target="_blank">tianxingchen.github.io</a></h3>
 
-        <div style="margin-top:10px; font-size:.93rem; line-height:1.75; color:var(--text-muted);">
-          <p>
-          Hi! I am <strong>Tianxing Chen (Chinese name: 陈天行)</strong>, Co-Founder and CTO of Xspark AI, founder of
-          <a href="https://lumina-embodied.ai/" target="_blank">Lumina Embodied AI Community</a>,
-          and also a first-year Ph.D. student at
-          <a href="https://mmlab.hk/" target="_blank">MMLab@HKU</a>,
-          The University of Hong Kong (since Oct. 2025), supervised by
-          <a href="https://luoping.me/" target="_blank">Prof. Ping Luo</a>.
-          My research focuses on Embodied AI Infra, including Robotic Foundation Model, Data Generator and Evaluation.
-        </p>
-        <p>
-          I have published multiple papers at top venues such as CVPR, RSS, ICLR, ICRA and ACL.
-          My works received <strong>Best Paper Award</strong> at the ECCV 2024 MAAS Workshop,
-          <strong>Champion</strong> at NeurIPS 2025 MARS Challenge (Control Track), third-runnerup at IROS 2025 AgiBot World Challenge (Manipulation Track),
-          <strong>Best Poster Award</strong> at IROS 2025 RoMaDo, RoDGE, AIR4S Workshop and ChinaSI 2025,
-          and a CVPR <strong>Highlight</strong> recognition.
-          I organized Embodied-AI-Guide project, and received over 10k Github stars,
-          which is the most popular EAI tutorial.
-          Beyond research, I have been honored with the <strong>CCF Elite Collegiate Award</strong> (99 nationwide)
-          and the "Excellent Star of SZU", the highest undergraduate honor at Shenzhen University (ranked 2/30,000).
-          I also won a silver medal in the ACM-ICPC regional competition and was national runner-up in the
-          RAICOM robotics developer competition.
-        </p>
-        <p>
-          I have served as an organizer of the SIGGRAPH ASIA 2025 TriFusion Workshop, CVPR 2025 MEIS Workshop,
-          the CVPR 2025 RoboTwin Dual-Arm Collaboration Challenge, and the Greater Bay Area Embodied AI Workshop.
-          I am also a student committee member of the Autonomous Robotic Technology Seminar (ARTS).
-          In addition, I share my thoughts on research and technology as a blogger and vlogger,
-          with over 20k followers on Rednote 🎒@<a href="#" target="_blank">TianxingChen (陈天行)</a>.
-        </p>
-        </div>
+<div style="margin-top:10px; font-size:.93rem; line-height:1.75; color:var(--text-muted);">
+    <p>
+    Hi! I am <strong>Tianxing Chen (Chinese name: 陈天行)</strong>, Co-Founder and CTO of Xspark AI, founder of
+    <a href="https://lumina-embodied.ai/" target="_blank">Lumina Embodied AI Community</a>,
+    and also a first-year Ph.D. student at
+    <a href="https://mmlab.hk/" target="_blank">MMLab@HKU</a>,
+    The University of Hong Kong (since Oct. 2025), supervised by
+    <a href="https://luoping.me/" target="_blank">Prof. Ping Luo</a>.
+    My research focuses on Embodied AI Infra, including Robotic Foundation Model, Data Generator and Evaluation.
+</p>
+<p>
+    I have published multiple papers at top venues such as CVPR, RSS, ICLR, ICRA and ACL.
+    My works received <strong>Best Paper Award</strong> at the ECCV 2024 MAAS Workshop,
+    <strong>Champion</strong> at NeurIPS 2025 MARS Challenge (Control Track), third-runnerup at IROS 2025 AgiBot World Challenge (Manipulation Track),
+    <strong>Best Poster Award</strong> at IROS 2025 RoMaDo, RoDGE, AIR4S Workshop and ChinaSI 2025,
+    and a CVPR <strong>Highlight</strong> recognition.
+    I organized Embodied-AI-Guide project, and received over 10k Github stars,
+    which is the most popular EAI tutorial.
+    Beyond research, I have been honored with the <strong>CCF Elite Collegiate Award</strong> (99 nationwide)
+    and the "Excellent Star of SZU", the highest undergraduate honor at Shenzhen University (ranked 2/30,000).
+    I also won a silver medal in the ACM-ICPC regional competition and was national runner-up in the
+    RAICOM robotics developer competition.
+</p>
+<p>
+    I have served as an organizer of the SIGGRAPH ASIA 2025 TriFusion Workshop, CVPR 2025 MEIS Workshop,
+    the CVPR 2025 RoboTwin Dual-Arm Collaboration Challenge, and the Greater Bay Area Embodied AI Workshop.
+    I am also a student committee member of the Autonomous Robotic Technology Seminar (ARTS).
+    In addition, I share my thoughts on research and technology as a blogger and vlogger,
+    with over 20k followers on Rednote 🎒@<a href="#" target="_blank">TianxingChen (陈天行)</a>.
+</p>
+</div>
 <details style="margin-top:10px;">
-        <summary style="cursor:pointer; font-family:var(--font-mono); font-size:.78rem; color:var(--text-muted); user-select:none;">Detailed Profile (详细个人介绍)</summary>
+        <summary style="cursor:pointer; font-family:var(--font-mono); font-size:.78rem; color:var(--text-muted); user-select:none;">Chinese Profile (中文个人介绍)</summary>
           <p>Hi！我是<strong>陈天行 (English name: Tianxing Chen)</strong>，Xspark AI 联合创始人兼CTO，<a href="https://lumina-embodied.ai/" target="_blank">Lumina具身智能社区</a>的创始人，
           同时也是香港大学<a href="https://mmlab.hk/" target="_blank">MMLab@HKU</a>的一年级博士生（始于2025年9月），
           师从<a href="https://luoping.me/" target="_blank">罗平教授</a>。
