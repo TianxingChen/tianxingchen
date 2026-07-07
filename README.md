@@ -6,7 +6,7 @@
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/TianxingChen">
 	<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/MarioChan2002">
 <br>
-<a href="https://tianxingchen.github.io/" target="_blank" style="margin-top: 10px"><img src="https://tianxingchen.github.io/assets/files/institute/Xspark_1.png" height="70px" style="margin-bottom:-1px"></a>
+<!-- <a href="https://tianxingchen.github.io/" target="_blank" style="margin-top: 10px"><img src="https://tianxingchen.github.io/assets/files/institute/Xspark_1.png" height="70px" style="margin-bottom:-1px"></a> -->
 <a href="https://tianxingchen.github.io/" target="_blank"><img src="https://tianxingchen.github.io/assets/files/institute/HKU-CDS.png" height="70px" style="margin-bottom:-1px"></a>
 	<a href="https://tianxingchen.github.io/" target="_blank"><img src="https://github.com/TianxingChen/tianxingchen/blob/main/files/institute/lumina-logo.png" height="70px" style="margin-bottom:-1px"></a>
 </h1>
