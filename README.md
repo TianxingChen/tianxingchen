@@ -18,7 +18,7 @@
 
 <div style="margin-top:10px; font-size:.93rem; line-height:1.75; color:var(--text-muted);">
     <p>
-    Hi! I am <strong>Tianxing Chen (Chinese name: 陈天行)</strong>, Co-Founder and CTO of Xspark AI, founder of
+    Hi! I am <strong>Tianxing Chen (Chinese name: 陈天行)</strong>, founder of
     <a href="https://lumina-embodied.ai/" target="_blank">Lumina Embodied AI Community</a>,
     and also a first-year Ph.D. student at
     <a href="https://mmlab.hk/" target="_blank">MMLab@HKU</a>,
@@ -49,7 +49,7 @@
 </div>
 <details style="margin-top:10px;">
         <summary style="cursor:pointer; font-family:var(--font-mono); font-size:.78rem; color:var(--text-muted); user-select:none;">Chinese Profile (中文个人介绍)</summary>
-          <p>Hi！我是<strong>陈天行 (English name: Tianxing Chen)</strong>，Xspark AI 联合创始人兼CTO，<a href="https://lumina-embodied.ai/" target="_blank">Lumina具身智能社区</a>的创始人，
+          <p>Hi！我是<strong>陈天行 (English name: Tianxing Chen)</strong>，<a href="https://lumina-embodied.ai/" target="_blank">Lumina具身智能社区</a>的创始人，
           同时也是香港大学<a href="https://mmlab.hk/" target="_blank">MMLab@HKU</a>的一年级博士生（始于2025年9月），
           师从<a href="https://luoping.me/" target="_blank">罗平教授</a>。
           我的研究方向是具身智能基础架构，包括机器人通用基础模型、数据合成器与评测。</p>
