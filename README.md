@@ -6,7 +6,7 @@
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/TianxingChen">
 	<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/MarioChan2002">
 <br>
-<!-- <a href="https://tianxingchen.github.io/" target="_blank" style="margin-top: 10px"><img src="https://tianxingchen.github.io/assets/files/institute/Xspark_1.png" height="70px" style="margin-bottom:-1px"></a> -->
+<a href="https://tianxingchen.github.io/" target="_blank" style="margin-top: 10px"><img src="https://tianxingchen.github.io/assets/files/institute/xsparkai.png" height="70px" style="margin-bottom:-1px"></a>
 <a href="https://tianxingchen.github.io/" target="_blank"><img src="https://tianxingchen.github.io/assets/files/institute/HKU-CDS.png" height="70px" style="margin-bottom:-1px"></a>
 	<a href="https://tianxingchen.github.io/" target="_blank"><img src="https://github.com/TianxingChen/tianxingchen/blob/main/files/institute/lumina-logo.png" height="70px" style="margin-bottom:-1px"></a>
 </h1>
@@ -24,7 +24,7 @@
     <a href="https://mmlab.hk/" target="_blank">MMLab@HKU</a>,
     The University of Hong Kong (since Oct. 2025), supervised by
     <a href="https://luoping.me/" target="_blank">Prof. Ping Luo</a>.
-    My research focuses on Embodied AI Infra, including Robotic Foundation Model, Data Generator and Evaluation.
+    My research focuses on Embodied AI Infra, including Robotic Foundation Model, Data Generator and Evaluation. I was selected as an AI25 honoree (25 Under 25 AI Innovation Pioneer) by HongShan China and MIT Technology Review China.
 </p>
 <p>
     I have published multiple papers at top venues such as CVPR, RSS, ICLR, ICRA and ACL.
@@ -51,7 +51,7 @@
         <summary style="cursor:pointer; font-family:var(--font-mono); font-size:.78rem; color:var(--text-muted); user-select:none;">Chinese Profile (中文个人介绍)</summary>
           <p>Hi！我是<strong>陈天行 (English name: Tianxing Chen)</strong>，<a href="https://lumina-embodied.ai/" target="_blank">Lumina具身智能社区</a>的创始人，
           同时也是香港大学<a href="https://mmlab.hk/" target="_blank">MMLab@HKU</a>的一年级博士生（始于2025年9月），
-          师从<a href="https://luoping.me/" target="_blank">罗平教授</a>。
+          师从<a href="https://luoping.me/" target="_blank">罗平教授</a>。我也被红杉中国与《麻省理工科技评论》中国联合评选为AI25（25岁以下AI创新青年先锋）。
           我的研究方向是具身智能基础架构，包括机器人通用基础模型、数据合成器与评测。</p>
           <p style="margin-top:8px;">我在CVPR、RSS、ICLR、ICRA、ACL等学术顶会发表多篇论文。在ECCV 2024 MAAS Workshop上获得最佳论文奖，
           获得NeurIPS 2025 MARS操作赛冠军，IROS 2025 AgiBot World操作赛季军，在IROS 2025 RoMaDo、RoDGE、AIR4S Workshop
@@ -82,6 +82,7 @@
 > See [My Google Scholar Profile](https://scholar.google.com/citations?user=pvS8MH8AAAAJ&hl=en) or [My Homepage](https://tianxingchen.github.io) for more details.
 
 ## First / Co-first Author
+* **[arXiv 26]** RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies, [website](https://robodojo-benchmark.com/)
 * **[arXiv 26]** ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K, [website](https://manitwin.github.io/)
 * **[arXiv 26]** RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design, [website](https://rmbench.github.io/)
 * **[arXiv 26]** UniVTAC: A Unified Simulation Platform for Visuo-Tactile Manipulation Data Generation, Learning, and Benchmarking, [website](https://univtac.github.io/)
@@ -94,18 +95,6 @@
 * **[CoRL 25 Workshop]** Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking, [Webpage](https://hytidel.github.io/video-tracking-for-axis-estimation/) / [Code](https://github.com/TianxingChen/VideoTracking-For-AxisEst)
 * **[ECCV 24 Workshop (Best Paper)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version), [Webpage](https://robotwin-benchmark.github.io/early-version) / [Code](https://github.com/TianxingChen/RoboTwin)
 
-## Co-Author
-* **[ICRA 26]** LeHome: A Simulation Environment for Deformable Object Manipulation in Household Scenarios, TODO
-* **[ICLR 26]** CubeBench: Diagnosing Interactive, Long-Horizon Spatial Reasoning Under Partial Observations, [arXiv](https://arxiv.org/abs/2512.23328)
-* **[ICLR 26]** SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning, [arXiv](https://arxiv.org/abs/2509.09674)
-* **[ICLR 25 Workshop]** HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents, [arXiv](https://arxiv.org/abs/2508.02629)
-* **[ICLR 26]** AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory, [Code](https://github.com/autobio-bench/AutoBio)
-* **[ICRA 26]** AVR: Active Vision-Driven Robotic Precision Manipulation with Viewpoint and Focal Length Optimization
-* **[RSS 25]** CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World, [Webpage](https://aureleopku.github.io/CordViP)
-* **[CVPR 25]** DexHandDiff: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation, [Webpage](https://dexdiffuser.github.io/)
-* **[ACL 25]** HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model, [arXiv](https://arxiv.org/abs/2408.09559)
-* **[arXiv 24]** ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation: [Webpage](https://manicm-fast.github.io/) / [Code](https://github.com/ManiCM-fast/ManiCM)
-* **[ICARM 24]** Robust UAV Policy Learning for Urban Infrastructure Surface Screening, [Paper](https://ieeexplore.ieee.org/abstract/document/10715841/)
 
 
 # 📷 Open-source Projects
