@@ -24,7 +24,7 @@
     <a href="https://mmlab.hk/" target="_blank">MMLab@HKU</a>,
     The University of Hong Kong (since Oct. 2025), supervised by
     <a href="https://luoping.me/" target="_blank">Prof. Ping Luo</a>.
-    My research focuses on Embodied AI Infra, including Robotic Foundation Model, Data Generator and Evaluation. I was selected as an AI25 honoree (25 Under 25 AI Innovation Pioneer) by HongShan China and MIT Technology Review China.
+    My research focuses on Embodied AI Infra, including Robotic Foundation Model, Data Generator and Evaluation. I was selected as an AI25 honoree (Under 25 AI Innovation Pioneer) by HongShan China and MIT Technology Review China.
 </p>
 <p>
     I have published multiple papers at top venues such as CVPR, RSS, ICLR, ICRA and ACL.
